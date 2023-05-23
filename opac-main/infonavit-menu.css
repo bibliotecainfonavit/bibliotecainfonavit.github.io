@@ -62,13 +62,9 @@ font-family:Montserrat,serif;
       margin-left:2rem;
       margin-bottom:0rem;}
 
-
-
-
 .nav__container__list {
   display: flex;
   flex-direction: row wrap;
-  margin: 0.625rem;
   padding: 0.938rem;
   z-index:100;
   font-family:Montserrat;
