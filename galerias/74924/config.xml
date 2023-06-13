@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+        backgroundColor="rgba(255, 255, 255, 1)"
+        useFullscreenExpand="true"
+        enableLooping="true"
+        stagePadding="50"
+        galleryTitlePosition="TOP"
+        galleryTitleHAlign="CENTER"
+        rememberPassword="false"
+        captionBackColor="rgba(204,204,204,0.3)"
+        buttonBarBackColor="rgba(204,204,204,0.5)"
+        imageFrameColor="rgba(255,255,255,1)"
+        thumbDotColor="rgba(255,255,255,0.4)"
+        expandedBackgroundColor="rgba(255, 255, 255, 1)"
+        imagePreloading="NEXT"
+        imageShadowBlur="0"
+        thumbSelectedFrameWidth="8"
+        thumbCornerRadius="5"
+        buttonBarPosition="OVERLAY"
+        showAutoPlayButton="true"
+        showDownloadButton="true"
+        showEmailButton="true"
+        emailAddress=""
+        emailSubject=""
+        buttonBarIconSize="15"
+        captionPosition="BELOW_IMAGE"
+        maxCaptionHeight="40"
+        enableAutoPlay="true"
+        autoPlayOnLoad="true"
+        displayTime="3"
+        goNextOnAutoPlay="true"
+        shareFacebook="false"
+        shareTwitter="false"
+        shareGPlus="false"
+        sharePinterest="false"
+        watermarkHAlign="LEFT"
+        watermarkVAlign="TOP"
+        watermarkPath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerí?as/Firma inst-Infonavit 2019-Color negro 25%.png"
+        useWatermark="true"
+        backgroundUrl="https://infonavit.janium.net/janium/Imagenes2022/header.jpg"
+        backgroundScale="NONE"
+        buttonBarHAlign="CENTER"
+        addSEOContent="false"
+        showExpandButton="false"
+        showThumbsButton="false"
+        showSmallThumbsButton="true"
+        showSmallPagingText="true"
+        showOpenButton="false"
+
+>
+  <image imageURL="images/01_Comunidades_Personas.jpg"
+	thumbURL="thumbs/01_Comunidades_Personas.jpg"
+	linkURL="images/01_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/01_Comunidades_Personas.jpg">
+    <title><![CDATA[01_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/02_Comunidades_Personas.jpg"
+	thumbURL="thumbs/02_Comunidades_Personas.jpg"
+	linkURL="images/02_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/02_Comunidades_Personas.jpg">
+    <title><![CDATA[02_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/03_Comunidades_Personas.jpg"
+	thumbURL="thumbs/03_Comunidades_Personas.jpg"
+	linkURL="images/03_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/03_Comunidades_Personas.jpg">
+    <title><![CDATA[03_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/04_Comunidades_Personas.jpg"
+	thumbURL="thumbs/04_Comunidades_Personas.jpg"
+	linkURL="images/04_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/04_Comunidades_Personas.jpg">
+    <title><![CDATA[04_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/05_Comunidades_Personas.jpg"
+	thumbURL="thumbs/05_Comunidades_Personas.jpg"
+	linkURL="images/05_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/05_Comunidades_Personas.jpg">
+    <title><![CDATA[05_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/06_Comunidades_Personas.jpg"
+	thumbURL="thumbs/06_Comunidades_Personas.jpg"
+	linkURL="images/06_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/06_Comunidades_Personas.jpg">
+    <title><![CDATA[06_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/07_Comunidades_Personas.jpg"
+	thumbURL="thumbs/07_Comunidades_Personas.jpg"
+	linkURL="images/07_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/07_Comunidades_Personas.jpg">
+    <title><![CDATA[07_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/08_Comunidades_Personas.jpg"
+	thumbURL="thumbs/08_Comunidades_Personas.jpg"
+	linkURL="images/08_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/08_Comunidades_Personas.jpg">
+    <title><![CDATA[08_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/09_Comunidades_Personas.jpg"
+	thumbURL="thumbs/09_Comunidades_Personas.jpg"
+	linkURL="images/09_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/09_Comunidades_Personas.jpg">
+    <title><![CDATA[09_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10_Comunidades_Personas.jpg"
+	thumbURL="thumbs/10_Comunidades_Personas.jpg"
+	linkURL="images/10_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/10_Comunidades_Personas.jpg">
+    <title><![CDATA[10_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11_Comunidades_Personas.jpg"
+	thumbURL="thumbs/11_Comunidades_Personas.jpg"
+	linkURL="images/11_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/11_Comunidades_Personas.jpg">
+    <title><![CDATA[11_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12_Comunidades_Personas.jpg"
+	thumbURL="thumbs/12_Comunidades_Personas.jpg"
+	linkURL="images/12_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/12_Comunidades_Personas.jpg">
+    <title><![CDATA[12_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13_Comunidades_Personas.jpg"
+	thumbURL="thumbs/13_Comunidades_Personas.jpg"
+	linkURL="images/13_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/13_Comunidades_Personas.jpg">
+    <title><![CDATA[13_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/14_Comunidades_Personas.jpg"
+	thumbURL="thumbs/14_Comunidades_Personas.jpg"
+	linkURL="images/14_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/14_Comunidades_Personas.jpg">
+    <title><![CDATA[14_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/15_Comunidades_Personas.jpg"
+	thumbURL="thumbs/15_Comunidades_Personas.jpg"
+	linkURL="images/15_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/15_Comunidades_Personas.jpg">
+    <title><![CDATA[15_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/16_Comunidades_Personas.jpg"
+	thumbURL="thumbs/16_Comunidades_Personas.jpg"
+	linkURL="images/16_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/16_Comunidades_Personas.jpg">
+    <title><![CDATA[16_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/17_Comunidades_Personas.jpg"
+	thumbURL="thumbs/17_Comunidades_Personas.jpg"
+	linkURL="images/17_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/17_Comunidades_Personas.jpg">
+    <title><![CDATA[17_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/18_Comunidades_Personas.jpg"
+	thumbURL="thumbs/18_Comunidades_Personas.jpg"
+	linkURL="images/18_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/18_Comunidades_Personas.jpg">
+    <title><![CDATA[18_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/19_Comunidades_Personas.jpg"
+	thumbURL="thumbs/19_Comunidades_Personas.jpg"
+	linkURL="images/19_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/19_Comunidades_Personas.jpg">
+    <title><![CDATA[19_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20_Comunidades_Personas.jpg"
+	thumbURL="thumbs/20_Comunidades_Personas.jpg"
+	linkURL="images/20_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/20_Comunidades_Personas.jpg">
+    <title><![CDATA[20_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/21_Comunidades_Personas.jpg"
+	thumbURL="thumbs/21_Comunidades_Personas.jpg"
+	linkURL="images/21_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/21_Comunidades_Personas.jpg">
+    <title><![CDATA[21_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/22_Comunidades_Personas.jpg"
+	thumbURL="thumbs/22_Comunidades_Personas.jpg"
+	linkURL="images/22_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/22_Comunidades_Personas.jpg">
+    <title><![CDATA[22_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/23_Comunidades_Personas.jpg"
+	thumbURL="thumbs/23_Comunidades_Personas.jpg"
+	linkURL="images/23_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/23_Comunidades_Personas.jpg">
+    <title><![CDATA[23_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/24_Comunidades_Personas.jpg"
+	thumbURL="thumbs/24_Comunidades_Personas.jpg"
+	linkURL="images/24_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/24_Comunidades_Personas.jpg">
+    <title><![CDATA[24_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/25_Comunidades_Personas.jpg"
+	thumbURL="thumbs/25_Comunidades_Personas.jpg"
+	linkURL="images/25_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/25_Comunidades_Personas.jpg">
+    <title><![CDATA[25_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/26_Comunidades_Personas.jpg"
+	thumbURL="thumbs/26_Comunidades_Personas.jpg"
+	linkURL="images/26_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/26_Comunidades_Personas.jpg">
+    <title><![CDATA[26_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/27_Comunidades_Personas.jpg"
+	thumbURL="thumbs/27_Comunidades_Personas.jpg"
+	linkURL="images/27_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/27_Comunidades_Personas.jpg">
+    <title><![CDATA[27_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/28_Comunidades_Personas.jpg"
+	thumbURL="thumbs/28_Comunidades_Personas.jpg"
+	linkURL="images/28_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/28_Comunidades_Personas.jpg">
+    <title><![CDATA[28_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/29_Comunidades_Personas.jpg"
+	thumbURL="thumbs/29_Comunidades_Personas.jpg"
+	linkURL="images/29_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/29_Comunidades_Personas.jpg">
+    <title><![CDATA[29_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/30_Comunidades_Personas.jpg"
+	thumbURL="thumbs/30_Comunidades_Personas.jpg"
+	linkURL="images/30_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/30_Comunidades_Personas.jpg">
+    <title><![CDATA[30_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/31_Comunidades_Personas.jpg"
+	thumbURL="thumbs/31_Comunidades_Personas.jpg"
+	linkURL="images/31_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/31_Comunidades_Personas.jpg">
+    <title><![CDATA[31_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/32_Comunidades_Personas.jpg"
+	thumbURL="thumbs/32_Comunidades_Personas.jpg"
+	linkURL="images/32_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/32_Comunidades_Personas.jpg">
+    <title><![CDATA[32_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/33_Comunidades_Personas.jpg"
+	thumbURL="thumbs/33_Comunidades_Personas.jpg"
+	linkURL="images/33_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/33_Comunidades_Personas.jpg">
+    <title><![CDATA[33_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/34_Comunidades_Personas.jpg"
+	thumbURL="thumbs/34_Comunidades_Personas.jpg"
+	linkURL="images/34_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/34_Comunidades_Personas.jpg">
+    <title><![CDATA[34_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/35_Comunidades_Personas.jpg"
+	thumbURL="thumbs/35_Comunidades_Personas.jpg"
+	linkURL="images/35_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/35_Comunidades_Personas.jpg">
+    <title><![CDATA[35_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/36_Comunidades_Personas.jpg"
+	thumbURL="thumbs/36_Comunidades_Personas.jpg"
+	linkURL="images/36_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/36_Comunidades_Personas.jpg">
+    <title><![CDATA[36_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/37_Comunidades_Personas.jpg"
+	thumbURL="thumbs/37_Comunidades_Personas.jpg"
+	linkURL="images/37_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/37_Comunidades_Personas.jpg">
+    <title><![CDATA[37_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/38_Comunidades_Personas.jpg"
+	thumbURL="thumbs/38_Comunidades_Personas.jpg"
+	linkURL="images/38_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/38_Comunidades_Personas.jpg">
+    <title><![CDATA[38_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/39_Comunidades_Personas.jpg"
+	thumbURL="thumbs/39_Comunidades_Personas.jpg"
+	linkURL="images/39_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/39_Comunidades_Personas.jpg">
+    <title><![CDATA[39_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/40_Comunidades_Personas.jpg"
+	thumbURL="thumbs/40_Comunidades_Personas.jpg"
+	linkURL="images/40_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/40_Comunidades_Personas.jpg">
+    <title><![CDATA[40_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/41_Comunidades_Personas.jpg"
+	thumbURL="thumbs/41_Comunidades_Personas.jpg"
+	linkURL="images/41_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/41_Comunidades_Personas.jpg">
+    <title><![CDATA[41_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/42_Comunidades_Personas.jpg"
+	thumbURL="thumbs/42_Comunidades_Personas.jpg"
+	linkURL="images/42_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/42_Comunidades_Personas.jpg">
+    <title><![CDATA[42_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/43_Comunidades_Personas.jpg"
+	thumbURL="thumbs/43_Comunidades_Personas.jpg"
+	linkURL="images/43_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/43_Comunidades_Personas.jpg">
+    <title><![CDATA[43_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/44_Comunidades_Personas.jpg"
+	thumbURL="thumbs/44_Comunidades_Personas.jpg"
+	linkURL="images/44_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/44_Comunidades_Personas.jpg">
+    <title><![CDATA[44_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/45_Comunidades_Personas.jpg"
+	thumbURL="thumbs/45_Comunidades_Personas.jpg"
+	linkURL="images/45_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/45_Comunidades_Personas.jpg">
+    <title><![CDATA[45_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/46_Comunidades_Personas.jpg"
+	thumbURL="thumbs/46_Comunidades_Personas.jpg"
+	linkURL="images/46_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/46_Comunidades_Personas.jpg">
+    <title><![CDATA[46_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/47_Comunidades_Personas.jpg"
+	thumbURL="thumbs/47_Comunidades_Personas.jpg"
+	linkURL="images/47_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/47_Comunidades_Personas.jpg">
+    <title><![CDATA[47_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/48_Comunidades_Personas.jpg"
+	thumbURL="thumbs/48_Comunidades_Personas.jpg"
+	linkURL="images/48_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/48_Comunidades_Personas.jpg">
+    <title><![CDATA[48_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/49_Comunidades_Personas.jpg"
+	thumbURL="thumbs/49_Comunidades_Personas.jpg"
+	linkURL="images/49_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/49_Comunidades_Personas.jpg">
+    <title><![CDATA[49_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/50_Comunidades_Personas.jpg"
+	thumbURL="thumbs/50_Comunidades_Personas.jpg"
+	linkURL="images/50_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/50_Comunidades_Personas.jpg">
+    <title><![CDATA[50_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/51_Comunidades_Personas.jpg"
+	thumbURL="thumbs/51_Comunidades_Personas.jpg"
+	linkURL="images/51_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/51_Comunidades_Personas.jpg">
+    <title><![CDATA[51_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/52_Comunidades_Personas.jpg"
+	thumbURL="thumbs/52_Comunidades_Personas.jpg"
+	linkURL="images/52_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/52_Comunidades_Personas.jpg">
+    <title><![CDATA[52_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/53_Comunidades_Personas.jpg"
+	thumbURL="thumbs/53_Comunidades_Personas.jpg"
+	linkURL="images/53_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/53_Comunidades_Personas.jpg">
+    <title><![CDATA[53_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/54_Comunidades_Personas.jpg"
+	thumbURL="thumbs/54_Comunidades_Personas.jpg"
+	linkURL="images/54_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/54_Comunidades_Personas.jpg">
+    <title><![CDATA[54_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/55_Comunidades_Personas.jpg"
+	thumbURL="thumbs/55_Comunidades_Personas.jpg"
+	linkURL="images/55_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/55_Comunidades_Personas.jpg">
+    <title><![CDATA[55_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/56_Comunidades_Personas.jpg"
+	thumbURL="thumbs/56_Comunidades_Personas.jpg"
+	linkURL="images/56_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/56_Comunidades_Personas.jpg">
+    <title><![CDATA[56_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/57_Comunidades_Personas.jpg"
+	thumbURL="thumbs/57_Comunidades_Personas.jpg"
+	linkURL="images/57_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/57_Comunidades_Personas.jpg">
+    <title><![CDATA[57_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/58_Comunidades_Personas.jpg"
+	thumbURL="thumbs/58_Comunidades_Personas.jpg"
+	linkURL="images/58_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/58_Comunidades_Personas.jpg">
+    <title><![CDATA[58_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/59_Comunidades_Personas.jpg"
+	thumbURL="thumbs/59_Comunidades_Personas.jpg"
+	linkURL="images/59_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/59_Comunidades_Personas.jpg">
+    <title><![CDATA[59_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/60_Comunidades_Personas.jpg"
+	thumbURL="thumbs/60_Comunidades_Personas.jpg"
+	linkURL="images/60_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/60_Comunidades_Personas.jpg">
+    <title><![CDATA[60_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/61_Comunidades_Personas.jpg"
+	thumbURL="thumbs/61_Comunidades_Personas.jpg"
+	linkURL="images/61_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/61_Comunidades_Personas.jpg">
+    <title><![CDATA[61_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/62_Comunidades_Personas.jpg"
+	thumbURL="thumbs/62_Comunidades_Personas.jpg"
+	linkURL="images/62_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/62_Comunidades_Personas.jpg">
+    <title><![CDATA[62_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/63_Comunidades_Personas.jpg"
+	thumbURL="thumbs/63_Comunidades_Personas.jpg"
+	linkURL="images/63_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/63_Comunidades_Personas.jpg">
+    <title><![CDATA[63_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/64_Comunidades_Personas.jpg"
+	thumbURL="thumbs/64_Comunidades_Personas.jpg"
+	linkURL="images/64_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/64_Comunidades_Personas.jpg">
+    <title><![CDATA[64_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/65_Comunidades_Personas.jpg"
+	thumbURL="thumbs/65_Comunidades_Personas.jpg"
+	linkURL="images/65_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/65_Comunidades_Personas.jpg">
+    <title><![CDATA[65_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/66_Comunidades_Personas.jpg"
+	thumbURL="thumbs/66_Comunidades_Personas.jpg"
+	linkURL="images/66_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/66_Comunidades_Personas.jpg">
+    <title><![CDATA[66_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/67_Comunidades_Personas.jpg"
+	thumbURL="thumbs/67_Comunidades_Personas.jpg"
+	linkURL="images/67_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/67_Comunidades_Personas.jpg">
+    <title><![CDATA[67_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/68_Comunidades_Personas.jpg"
+	thumbURL="thumbs/68_Comunidades_Personas.jpg"
+	linkURL="images/68_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/68_Comunidades_Personas.jpg">
+    <title><![CDATA[68_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/69_Comunidades_Personas.jpg"
+	thumbURL="thumbs/69_Comunidades_Personas.jpg"
+	linkURL="images/69_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/69_Comunidades_Personas.jpg">
+    <title><![CDATA[69_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/70_Comunidades_Personas.jpg"
+	thumbURL="thumbs/70_Comunidades_Personas.jpg"
+	linkURL="images/70_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/70_Comunidades_Personas.jpg">
+    <title><![CDATA[70_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/71_Comunidades_Personas.jpg"
+	thumbURL="thumbs/71_Comunidades_Personas.jpg"
+	linkURL="images/71_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/71_Comunidades_Personas.jpg">
+    <title><![CDATA[71_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/72_Comunidades_Personas.jpg"
+	thumbURL="thumbs/72_Comunidades_Personas.jpg"
+	linkURL="images/72_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/72_Comunidades_Personas.jpg">
+    <title><![CDATA[72_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/73_Comunidades_Personas.jpg"
+	thumbURL="thumbs/73_Comunidades_Personas.jpg"
+	linkURL="images/73_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/73_Comunidades_Personas.jpg">
+    <title><![CDATA[73_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/74_Comunidades_Personas.jpg"
+	thumbURL="thumbs/74_Comunidades_Personas.jpg"
+	linkURL="images/74_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/74_Comunidades_Personas.jpg">
+    <title><![CDATA[74_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/75_Comunidades_Personas.jpg"
+	thumbURL="thumbs/75_Comunidades_Personas.jpg"
+	linkURL="images/75_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/75_Comunidades_Personas.jpg">
+    <title><![CDATA[75_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/76_Comunidades_Personas.jpg"
+	thumbURL="thumbs/76_Comunidades_Personas.jpg"
+	linkURL="images/76_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/76_Comunidades_Personas.jpg">
+    <title><![CDATA[76_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/77_Comunidades_Personas.jpg"
+	thumbURL="thumbs/77_Comunidades_Personas.jpg"
+	linkURL="images/77_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/77_Comunidades_Personas.jpg">
+    <title><![CDATA[77_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/78_Comunidades_Personas.jpg"
+	thumbURL="thumbs/78_Comunidades_Personas.jpg"
+	linkURL="images/78_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/78_Comunidades_Personas.jpg">
+    <title><![CDATA[78_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/79_Comunidades_Personas.jpg"
+	thumbURL="thumbs/79_Comunidades_Personas.jpg"
+	linkURL="images/79_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/79_Comunidades_Personas.jpg">
+    <title><![CDATA[79_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/80_Comunidades_Personas.jpg"
+	thumbURL="thumbs/80_Comunidades_Personas.jpg"
+	linkURL="images/80_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/80_Comunidades_Personas.jpg">
+    <title><![CDATA[80_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/81_Comunidades_Personas.jpg"
+	thumbURL="thumbs/81_Comunidades_Personas.jpg"
+	linkURL="images/81_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/81_Comunidades_Personas.jpg">
+    <title><![CDATA[81_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/82_Comunidades_Personas.jpg"
+	thumbURL="thumbs/82_Comunidades_Personas.jpg"
+	linkURL="images/82_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/82_Comunidades_Personas.jpg">
+    <title><![CDATA[82_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/83_Comunidades_Personas.jpg"
+	thumbURL="thumbs/83_Comunidades_Personas.jpg"
+	linkURL="images/83_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/83_Comunidades_Personas.jpg">
+    <title><![CDATA[83_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/84_Comunidades_Personas.jpg"
+	thumbURL="thumbs/84_Comunidades_Personas.jpg"
+	linkURL="images/84_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/84_Comunidades_Personas.jpg">
+    <title><![CDATA[84_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/85_Comunidades_Personas.jpg"
+	thumbURL="thumbs/85_Comunidades_Personas.jpg"
+	linkURL="images/85_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/85_Comunidades_Personas.jpg">
+    <title><![CDATA[85_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/86_Comunidades_Personas.jpg"
+	thumbURL="thumbs/86_Comunidades_Personas.jpg"
+	linkURL="images/86_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/86_Comunidades_Personas.jpg">
+    <title><![CDATA[86_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/87_Comunidades_Personas.jpg"
+	thumbURL="thumbs/87_Comunidades_Personas.jpg"
+	linkURL="images/87_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/87_Comunidades_Personas.jpg">
+    <title><![CDATA[87_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/88_Comunidades_Personas.jpg"
+	thumbURL="thumbs/88_Comunidades_Personas.jpg"
+	linkURL="images/88_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/88_Comunidades_Personas.jpg">
+    <title><![CDATA[88_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/89_Comunidades_Personas.jpg"
+	thumbURL="thumbs/89_Comunidades_Personas.jpg"
+	linkURL="images/89_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/89_Comunidades_Personas.jpg">
+    <title><![CDATA[89_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/90_Comunidades_Personas.jpg"
+	thumbURL="thumbs/90_Comunidades_Personas.jpg"
+	linkURL="images/90_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/90_Comunidades_Personas.jpg">
+    <title><![CDATA[90_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/91_Comunidades_Personas.jpg"
+	thumbURL="thumbs/91_Comunidades_Personas.jpg"
+	linkURL="images/91_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/91_Comunidades_Personas.jpg">
+    <title><![CDATA[91_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/92_Comunidades_Personas.jpg"
+	thumbURL="thumbs/92_Comunidades_Personas.jpg"
+	linkURL="images/92_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/92_Comunidades_Personas.jpg">
+    <title><![CDATA[92_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/93_Comunidades_Personas.jpg"
+	thumbURL="thumbs/93_Comunidades_Personas.jpg"
+	linkURL="images/93_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/93_Comunidades_Personas.jpg">
+    <title><![CDATA[93_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/94_Comunidades_Personas.jpg"
+	thumbURL="thumbs/94_Comunidades_Personas.jpg"
+	linkURL="images/94_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/94_Comunidades_Personas.jpg">
+    <title><![CDATA[94_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/95_Comunidades_Personas.jpg"
+	thumbURL="thumbs/95_Comunidades_Personas.jpg"
+	linkURL="images/95_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/95_Comunidades_Personas.jpg">
+    <title><![CDATA[95_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/96_Comunidades_Personas.jpg"
+	thumbURL="thumbs/96_Comunidades_Personas.jpg"
+	linkURL="images/96_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/96_Comunidades_Personas.jpg">
+    <title><![CDATA[96_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/97_Comunidades_Personas.jpg"
+	thumbURL="thumbs/97_Comunidades_Personas.jpg"
+	linkURL="images/97_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/97_Comunidades_Personas.jpg">
+    <title><![CDATA[97_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/98_Comunidades_Personas.jpg"
+	thumbURL="thumbs/98_Comunidades_Personas.jpg"
+	linkURL="images/98_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/98_Comunidades_Personas.jpg">
+    <title><![CDATA[98_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/99_Comunidades_Personas.jpg"
+	thumbURL="thumbs/99_Comunidades_Personas.jpg"
+	linkURL="images/99_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/99_Comunidades_Personas.jpg">
+    <title><![CDATA[99_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/100_Comunidades_Personas.jpg"
+	thumbURL="thumbs/100_Comunidades_Personas.jpg"
+	linkURL="images/100_Comunidades_Personas.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/74924/images/100_Comunidades_Personas.jpg">
+    <title><![CDATA[100_Comunidades_Personas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
