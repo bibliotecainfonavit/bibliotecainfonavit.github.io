@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+        backgroundColor="rgba(255, 255, 255, 1)"
+        useFullscreenExpand="true"
+        enableLooping="true"
+        stagePadding="50"
+        galleryTitlePosition="TOP"
+        galleryTitleHAlign="CENTER"
+        rememberPassword="false"
+        captionBackColor="rgba(204,204,204,0.3)"
+        buttonBarBackColor="rgba(204,204,204,0.5)"
+        imageFrameColor="rgba(255,255,255,1)"
+        thumbDotColor="rgba(255,255,255,0.4)"
+        expandedBackgroundColor="rgba(255, 255, 255, 1)"
+        imagePreloading="NEXT"
+        imageShadowBlur="0"
+        thumbSelectedFrameWidth="8"
+        thumbCornerRadius="5"
+        buttonBarPosition="OVERLAY"
+        showAutoPlayButton="true"
+        showDownloadButton="true"
+        showEmailButton="true"
+        emailAddress=""
+        emailSubject=""
+        buttonBarIconSize="15"
+        captionPosition="BELOW_IMAGE"
+        maxCaptionHeight="40"
+        enableAutoPlay="true"
+        autoPlayOnLoad="true"
+        displayTime="3"
+        goNextOnAutoPlay="true"
+        shareFacebook="false"
+        shareTwitter="false"
+        shareGPlus="false"
+        sharePinterest="false"
+        watermarkHAlign="LEFT"
+        watermarkVAlign="TOP"
+        watermarkPath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerí?
+as/Firma inst-Infonavit 2019-Color negro 25%.png"
+        useWatermark="true"
+        backgroundUrl="https://infonavit.janium.net/janium/Imagenes2022/header.jpg"
+        backgroundScale="NONE"
+        buttonBarHAlign="CENTER"
+        addSEOContent="false"
+        showExpandButton="false"
+        showThumbsButton="false"
+        showSmallThumbsButton="true"
+        showSmallPagingText="true"
+        showOpenButton="false"
+
+>
+  <image imageURL="images/01_Convenio_IMSS_2019.jpg"
+	thumbURL="thumbs/01_Convenio_IMSS_2019.jpg"
+	linkURL="images/01_Convenio_IMSS_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/01_Convenio_IMSS_2019.jpg">
+    <title><![CDATA[01_Convenio_IMSS_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/02_Convenio_IMSS_2019.jpg"
+	thumbURL="thumbs/02_Convenio_IMSS_2019.jpg"
+	linkURL="images/02_Convenio_IMSS_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/02_Convenio_IMSS_2019.jpg">
+    <title><![CDATA[02_Convenio_IMSS_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/03_Convenio_IMSS_2019.jpg"
+	thumbURL="thumbs/03_Convenio_IMSS_2019.jpg"
+	linkURL="images/03_Convenio_IMSS_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/03_Convenio_IMSS_2019.jpg">
+    <title><![CDATA[03_Convenio_IMSS_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/04_Convenio_IMSS_2019.jpg"
+	thumbURL="thumbs/04_Convenio_IMSS_2019.jpg"
+	linkURL="images/04_Convenio_IMSS_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/04_Convenio_IMSS_2019.jpg">
+    <title><![CDATA[04_Convenio_IMSS_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/05_Convenio_IMSS_2019.jpg"
+	thumbURL="thumbs/05_Convenio_IMSS_2019.jpg"
+	linkURL="images/05_Convenio_IMSS_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/05_Convenio_IMSS_2019.jpg">
+    <title><![CDATA[05_Convenio_IMSS_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/06_Convenio_IMSS_2019.jpg"
+	thumbURL="thumbs/06_Convenio_IMSS_2019.jpg"
+	linkURL="images/06_Convenio_IMSS_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/06_Convenio_IMSS_2019.jpg">
+    <title><![CDATA[06_Convenio_IMSS_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/07_Convenio_IMSS_2019.jpg"
+	thumbURL="thumbs/07_Convenio_IMSS_2019.jpg"
+	linkURL="images/07_Convenio_IMSS_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/07_Convenio_IMSS_2019.jpg">
+    <title><![CDATA[07_Convenio_IMSS_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/08_Convenio_IMSS_2019.jpg"
+	thumbURL="thumbs/08_Convenio_IMSS_2019.jpg"
+	linkURL="images/08_Convenio_IMSS_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/08_Convenio_IMSS_2019.jpg">
+    <title><![CDATA[08_Convenio_IMSS_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/09_Convenio_IMSS_2019.jpg"
+	thumbURL="thumbs/09_Convenio_IMSS_2019.jpg"
+	linkURL="images/09_Convenio_IMSS_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/09_Convenio_IMSS_2019.jpg">
+    <title><![CDATA[09_Convenio_IMSS_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10_Convenio_IMSS_2019.jpg"
+	thumbURL="thumbs/10_Convenio_IMSS_2019.jpg"
+	linkURL="images/10_Convenio_IMSS_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/10_Convenio_IMSS_2019.jpg">
+    <title><![CDATA[10_Convenio_IMSS_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11_Convenio_IMSS_2019.jpg"
+	thumbURL="thumbs/11_Convenio_IMSS_2019.jpg"
+	linkURL="images/11_Convenio_IMSS_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/11_Convenio_IMSS_2019.jpg">
+    <title><![CDATA[11_Convenio_IMSS_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12_Convenio_IMSS_2019.jpg"
+	thumbURL="thumbs/12_Convenio_IMSS_2019.jpg"
+	linkURL="images/12_Convenio_IMSS_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/12_Convenio_IMSS_2019.jpg">
+    <title><![CDATA[12_Convenio_IMSS_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13_Convenio_IMSS_2019.jpg"
+	thumbURL="thumbs/13_Convenio_IMSS_2019.jpg"
+	linkURL="images/13_Convenio_IMSS_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/13_Convenio_IMSS_2019.jpg">
+    <title><![CDATA[13_Convenio_IMSS_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/14_Convenio_IMSS_2019.jpg"
+	thumbURL="thumbs/14_Convenio_IMSS_2019.jpg"
+	linkURL="images/14_Convenio_IMSS_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/14_Convenio_IMSS_2019.jpg">
+    <title><![CDATA[14_Convenio_IMSS_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/15_Convenio_IMSS_2019.jpg"
+	thumbURL="thumbs/15_Convenio_IMSS_2019.jpg"
+	linkURL="images/15_Convenio_IMSS_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/15_Convenio_IMSS_2019.jpg">
+    <title><![CDATA[15_Convenio_IMSS_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/16_Convenio_IMSS_2019.jpg"
+	thumbURL="thumbs/16_Convenio_IMSS_2019.jpg"
+	linkURL="images/16_Convenio_IMSS_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/16_Convenio_IMSS_2019.jpg">
+    <title><![CDATA[16_Convenio_IMSS_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/17_Convenio_Profedet_2019.jpg"
+	thumbURL="thumbs/17_Convenio_Profedet_2019.jpg"
+	linkURL="images/17_Convenio_Profedet_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/17_Convenio_Profedet_2019.jpg">
+    <title><![CDATA[17_Convenio_Profedet_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/18_Convenio_Profedet_2019.jpg"
+	thumbURL="thumbs/18_Convenio_Profedet_2019.jpg"
+	linkURL="images/18_Convenio_Profedet_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/18_Convenio_Profedet_2019.jpg">
+    <title><![CDATA[18_Convenio_Profedet_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/19_Convenio_Profedet_2019.jpg"
+	thumbURL="thumbs/19_Convenio_Profedet_2019.jpg"
+	linkURL="images/19_Convenio_Profedet_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/19_Convenio_Profedet_2019.jpg">
+    <title><![CDATA[19_Convenio_Profedet_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20_Convenio_Profedet_2019.jpg"
+	thumbURL="thumbs/20_Convenio_Profedet_2019.jpg"
+	linkURL="images/20_Convenio_Profedet_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/20_Convenio_Profedet_2019.jpg">
+    <title><![CDATA[20_Convenio_Profedet_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/21_Convenio_Profedet_2019.jpg"
+	thumbURL="thumbs/21_Convenio_Profedet_2019.jpg"
+	linkURL="images/21_Convenio_Profedet_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/21_Convenio_Profedet_2019.jpg">
+    <title><![CDATA[21_Convenio_Profedet_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/22_Convenio_Profedet_2019.jpg"
+	thumbURL="thumbs/22_Convenio_Profedet_2019.jpg"
+	linkURL="images/22_Convenio_Profedet_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/22_Convenio_Profedet_2019.jpg">
+    <title><![CDATA[22_Convenio_Profedet_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/23_Convenio_Profedet_2019.jpg"
+	thumbURL="thumbs/23_Convenio_Profedet_2019.jpg"
+	linkURL="images/23_Convenio_Profedet_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/23_Convenio_Profedet_2019.jpg">
+    <title><![CDATA[23_Convenio_Profedet_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/24_Convenio_Profedet_2019.jpg"
+	thumbURL="thumbs/24_Convenio_Profedet_2019.jpg"
+	linkURL="images/24_Convenio_Profedet_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/24_Convenio_Profedet_2019.jpg">
+    <title><![CDATA[24_Convenio_Profedet_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/25_Convenio_Profedet_2019.jpg"
+	thumbURL="thumbs/25_Convenio_Profedet_2019.jpg"
+	linkURL="images/25_Convenio_Profedet_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/25_Convenio_Profedet_2019.jpg">
+    <title><![CDATA[25_Convenio_Profedet_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/26_Convenio_Profedet_2019.jpg"
+	thumbURL="thumbs/26_Convenio_Profedet_2019.jpg"
+	linkURL="images/26_Convenio_Profedet_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/26_Convenio_Profedet_2019.jpg">
+    <title><![CDATA[26_Convenio_Profedet_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/27_Convenio_Profedet_2019.jpg"
+	thumbURL="thumbs/27_Convenio_Profedet_2019.jpg"
+	linkURL="images/27_Convenio_Profedet_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/27_Convenio_Profedet_2019.jpg">
+    <title><![CDATA[27_Convenio_Profedet_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/28_Convenio_Profedet_2019.jpg"
+	thumbURL="thumbs/28_Convenio_Profedet_2019.jpg"
+	linkURL="images/28_Convenio_Profedet_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/28_Convenio_Profedet_2019.jpg">
+    <title><![CDATA[28_Convenio_Profedet_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/29_Convenio_Profedet_2019.jpg"
+	thumbURL="thumbs/29_Convenio_Profedet_2019.jpg"
+	linkURL="images/29_Convenio_Profedet_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/29_Convenio_Profedet_2019.jpg">
+    <title><![CDATA[29_Convenio_Profedet_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/30_Convenio_Profedet_2019.jpg"
+	thumbURL="thumbs/30_Convenio_Profedet_2019.jpg"
+	linkURL="images/30_Convenio_Profedet_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/30_Convenio_Profedet_2019.jpg">
+    <title><![CDATA[30_Convenio_Profedet_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/31_Convenio_Profedet_2019.jpg"
+	thumbURL="thumbs/31_Convenio_Profedet_2019.jpg"
+	linkURL="images/31_Convenio_Profedet_2019.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/31_Convenio_Profedet_2019.jpg">
+    <title><![CDATA[31_Convenio_Profedet_2019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/32_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/32_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/32_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/32_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[32_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/33_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/33_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/33_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/33_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[33_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/34_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/34_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/34_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/34_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[34_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/35_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/35_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/35_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/35_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[35_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/36_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/36_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/36_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/36_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[36_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/37_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/37_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/37_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/37_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[37_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/38_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/38_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/38_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/38_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[38_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/39_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/39_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/39_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/39_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[39_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/40_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/40_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/40_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/40_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[40_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/41_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/41_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/41_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/41_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[41_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/42_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/42_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/42_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/42_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[42_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/43_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/43_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/43_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/43_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[43_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/44_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/44_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/44_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/44_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[44_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/45_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/45_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/45_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/45_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[45_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/46_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/46_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/46_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/46_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[46_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/47_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/47_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/47_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/47_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[47_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/48_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/48_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/48_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/48_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[48_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/49_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/49_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/49_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/49_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[49_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/50_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/50_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/50_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/50_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[50_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/51_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/51_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/51_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/51_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[51_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/52_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/52_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/52_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/52_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[52_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/53_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/53_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/53_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/53_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[53_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/54_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/54_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/54_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/54_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[54_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/55_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/55_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/55_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/55_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[55_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/56_Convenio_Universidad_Panamericana_2020.jpg"
+	thumbURL="thumbs/56_Convenio_Universidad_Panamericana_2020.jpg"
+	linkURL="images/56_Convenio_Universidad_Panamericana_2020.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76880/Originales/56_Convenio_Universidad_Panamericana_2020.jpg">
+    <title><![CDATA[56_Convenio_Universidad_Panamericana_2020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
