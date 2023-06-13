@@ -290,7 +290,7 @@ div.jb-area-caption
 	line-height: 1.1;
 }
 .jb-caption .jb-caption-title {
-	font-size: 17px;
+	font-size: 13px;
 	cursor:default;
 	margin-right: 72px;	/* equal to "width" in .jb-cap-frame .jbac-number; margin-top is set in code in order to hide the top margin when there is no desc */
 }
@@ -339,7 +339,7 @@ div.jb-cap-content {
 /* gallery title area */
 .jb-idx-ssm-title-wrapper {
     font-family:inherit;
-    font-size:16px;
+    font-size:13px;
     color:inherit;
 }
 
