@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+        backgroundColor="rgba(255, 255, 255, 1)"
+        useFullscreenExpand="true"
+        enableLooping="true"
+        stagePadding="50"
+        galleryTitlePosition="TOP"
+        galleryTitleHAlign="CENTER"
+        rememberPassword="false"
+        captionBackColor="rgba(204,204,204,0.3)"
+        buttonBarBackColor="rgba(204,204,204,0.5)"
+        imageFrameColor="rgba(255,255,255,1)"
+        thumbDotColor="rgba(255,255,255,0.4)"
+        expandedBackgroundColor="rgba(255, 255, 255, 1)"
+        imagePreloading="NEXT"
+        imageShadowBlur="0"
+        thumbSelectedFrameWidth="8"
+        thumbCornerRadius="5"
+        buttonBarPosition="OVERLAY"
+        showAutoPlayButton="true"
+        showDownloadButton="true"
+        showEmailButton="true"
+        emailAddress=""
+        emailSubject=""
+        buttonBarIconSize="15"
+        captionPosition="BELOW_IMAGE"
+        maxCaptionHeight="40"
+        enableAutoPlay="true"
+        autoPlayOnLoad="true"
+        displayTime="3"
+        goNextOnAutoPlay="true"
+        shareFacebook="false"
+        shareTwitter="false"
+        shareGPlus="false"
+        sharePinterest="false"
+        watermarkHAlign="LEFT"
+        watermarkVAlign="TOP"
+        watermarkPath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerí?as/Firma inst-Infonavit 2019-Color negro 25%.png"
+        useWatermark="true"
+        backgroundUrl="https://infonavit.janium.net/janium/Imagenes2022/header.jpg"
+        backgroundScale="NONE"
+        buttonBarHAlign="CENTER"
+        addSEOContent="false"
+        showExpandButton="false"
+        showThumbsButton="false"
+        showSmallThumbsButton="true"
+        showSmallPagingText="true"
+        showOpenButton="false"
+>
+  <image imageURL="images/001_Familias.jpg"
+	thumbURL="thumbs/001_Familias.jpg"
+	linkURL="images/001_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/001_Familias.jpg">
+    <title><![CDATA[001_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/002_Familias.jpg"
+	thumbURL="thumbs/002_Familias.jpg"
+	linkURL="images/002_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/002_Familias.jpg">
+    <title><![CDATA[002_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/003_Familias.jpg"
+	thumbURL="thumbs/003_Familias.jpg"
+	linkURL="images/003_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/003_Familias.jpg">
+    <title><![CDATA[003_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/004_Familias.jpg"
+	thumbURL="thumbs/004_Familias.jpg"
+	linkURL="images/004_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/004_Familias.jpg">
+    <title><![CDATA[004_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/005_Familias.jpg"
+	thumbURL="thumbs/005_Familias.jpg"
+	linkURL="images/005_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/005_Familias.jpg">
+    <title><![CDATA[005_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/006_Familias.jpg"
+	thumbURL="thumbs/006_Familias.jpg"
+	linkURL="images/006_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/006_Familias.jpg">
+    <title><![CDATA[006_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/007_Familias.jpg"
+	thumbURL="thumbs/007_Familias.jpg"
+	linkURL="images/007_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/007_Familias.jpg">
+    <title><![CDATA[007_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/008_Familias.jpg"
+	thumbURL="thumbs/008_Familias.jpg"
+	linkURL="images/008_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/008_Familias.jpg">
+    <title><![CDATA[008_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/009_Familias.jpg"
+	thumbURL="thumbs/009_Familias.jpg"
+	linkURL="images/009_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/009_Familias.jpg">
+    <title><![CDATA[009_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/010_Familias.jpg"
+	thumbURL="thumbs/010_Familias.jpg"
+	linkURL="images/010_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/010_Familias.jpg">
+    <title><![CDATA[010_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/011_Familias.jpg"
+	thumbURL="thumbs/011_Familias.jpg"
+	linkURL="images/011_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/011_Familias.jpg">
+    <title><![CDATA[011_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/012_Familias.jpg"
+	thumbURL="thumbs/012_Familias.jpg"
+	linkURL="images/012_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/012_Familias.jpg">
+    <title><![CDATA[012_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/013_Familias.jpg"
+	thumbURL="thumbs/013_Familias.jpg"
+	linkURL="images/013_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/013_Familias.jpg">
+    <title><![CDATA[013_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/014_Familias.jpg"
+	thumbURL="thumbs/014_Familias.jpg"
+	linkURL="images/014_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/014_Familias.jpg">
+    <title><![CDATA[014_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/015_Familias.jpg"
+	thumbURL="thumbs/015_Familias.jpg"
+	linkURL="images/015_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/015_Familias.jpg">
+    <title><![CDATA[015_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/016_Familias.jpg"
+	thumbURL="thumbs/016_Familias.jpg"
+	linkURL="images/016_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/016_Familias.jpg">
+    <title><![CDATA[016_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/017_Familias.jpg"
+	thumbURL="thumbs/017_Familias.jpg"
+	linkURL="images/017_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/017_Familias.jpg">
+    <title><![CDATA[017_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/018_Familias.jpg"
+	thumbURL="thumbs/018_Familias.jpg"
+	linkURL="images/018_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/018_Familias.jpg">
+    <title><![CDATA[018_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/019_Familias.jpg"
+	thumbURL="thumbs/019_Familias.jpg"
+	linkURL="images/019_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/019_Familias.jpg">
+    <title><![CDATA[019_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/020_Familias.jpg"
+	thumbURL="thumbs/020_Familias.jpg"
+	linkURL="images/020_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/020_Familias.jpg">
+    <title><![CDATA[020_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/021_Familias.jpg"
+	thumbURL="thumbs/021_Familias.jpg"
+	linkURL="images/021_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/021_Familias.jpg">
+    <title><![CDATA[021_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/022_Familias.jpg"
+	thumbURL="thumbs/022_Familias.jpg"
+	linkURL="images/022_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/022_Familias.jpg">
+    <title><![CDATA[022_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/023_Familias.jpg"
+	thumbURL="thumbs/023_Familias.jpg"
+	linkURL="images/023_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/023_Familias.jpg">
+    <title><![CDATA[023_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/024_Familias.jpg"
+	thumbURL="thumbs/024_Familias.jpg"
+	linkURL="images/024_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/024_Familias.jpg">
+    <title><![CDATA[024_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/026_Familias.jpg"
+	thumbURL="thumbs/026_Familias.jpg"
+	linkURL="images/026_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/026_Familias.jpg">
+    <title><![CDATA[026_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/027_Familias.jpg"
+	thumbURL="thumbs/027_Familias.jpg"
+	linkURL="images/027_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/027_Familias.jpg">
+    <title><![CDATA[027_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/028_Familias.jpg"
+	thumbURL="thumbs/028_Familias.jpg"
+	linkURL="images/028_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/028_Familias.jpg">
+    <title><![CDATA[028_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/029_Familias.jpg"
+	thumbURL="thumbs/029_Familias.jpg"
+	linkURL="images/029_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/029_Familias.jpg">
+    <title><![CDATA[029_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/030_Familias.jpg"
+	thumbURL="thumbs/030_Familias.jpg"
+	linkURL="images/030_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/030_Familias.jpg">
+    <title><![CDATA[030_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/031_Familias.jpg"
+	thumbURL="thumbs/031_Familias.jpg"
+	linkURL="images/031_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/031_Familias.jpg">
+    <title><![CDATA[031_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/032_Familias.jpg"
+	thumbURL="thumbs/032_Familias.jpg"
+	linkURL="images/032_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/032_Familias.jpg">
+    <title><![CDATA[032_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/033_Familias.jpg"
+	thumbURL="thumbs/033_Familias.jpg"
+	linkURL="images/033_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/033_Familias.jpg">
+    <title><![CDATA[033_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/034_Familias.jpg"
+	thumbURL="thumbs/034_Familias.jpg"
+	linkURL="images/034_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/034_Familias.jpg">
+    <title><![CDATA[034_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/035_Familias.jpg"
+	thumbURL="thumbs/035_Familias.jpg"
+	linkURL="images/035_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/035_Familias.jpg">
+    <title><![CDATA[035_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/036_Familias.jpg"
+	thumbURL="thumbs/036_Familias.jpg"
+	linkURL="images/036_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/036_Familias.jpg">
+    <title><![CDATA[036_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/037_Familias.jpg"
+	thumbURL="thumbs/037_Familias.jpg"
+	linkURL="images/037_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/037_Familias.jpg">
+    <title><![CDATA[037_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/038_Familias.jpg"
+	thumbURL="thumbs/038_Familias.jpg"
+	linkURL="images/038_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/038_Familias.jpg">
+    <title><![CDATA[038_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/039_Familias.jpg"
+	thumbURL="thumbs/039_Familias.jpg"
+	linkURL="images/039_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/039_Familias.jpg">
+    <title><![CDATA[039_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/040_Familias.jpg"
+	thumbURL="thumbs/040_Familias.jpg"
+	linkURL="images/040_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/040_Familias.jpg">
+    <title><![CDATA[040_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/041_Familias.jpg"
+	thumbURL="thumbs/041_Familias.jpg"
+	linkURL="images/041_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/041_Familias.jpg">
+    <title><![CDATA[041_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/042_Familias.jpg"
+	thumbURL="thumbs/042_Familias.jpg"
+	linkURL="images/042_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/042_Familias.jpg">
+    <title><![CDATA[042_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/043_Familias.jpg"
+	thumbURL="thumbs/043_Familias.jpg"
+	linkURL="images/043_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/043_Familias.jpg">
+    <title><![CDATA[043_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/044_Familias.jpg"
+	thumbURL="thumbs/044_Familias.jpg"
+	linkURL="images/044_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/044_Familias.jpg">
+    <title><![CDATA[044_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/045_Familias.jpg"
+	thumbURL="thumbs/045_Familias.jpg"
+	linkURL="images/045_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/045_Familias.jpg">
+    <title><![CDATA[045_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/046_Familias.jpg"
+	thumbURL="thumbs/046_Familias.jpg"
+	linkURL="images/046_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/046_Familias.jpg">
+    <title><![CDATA[046_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/047_Familias.jpg"
+	thumbURL="thumbs/047_Familias.jpg"
+	linkURL="images/047_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/047_Familias.jpg">
+    <title><![CDATA[047_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/048_Familias.jpg"
+	thumbURL="thumbs/048_Familias.jpg"
+	linkURL="images/048_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/048_Familias.jpg">
+    <title><![CDATA[048_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/049_Familias.jpg"
+	thumbURL="thumbs/049_Familias.jpg"
+	linkURL="images/049_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/049_Familias.jpg">
+    <title><![CDATA[049_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/050_Familias.jpg"
+	thumbURL="thumbs/050_Familias.jpg"
+	linkURL="images/050_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/050_Familias.jpg">
+    <title><![CDATA[050_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/051_Familias.jpg"
+	thumbURL="thumbs/051_Familias.jpg"
+	linkURL="images/051_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/051_Familias.jpg">
+    <title><![CDATA[051_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/052_Familias.jpg"
+	thumbURL="thumbs/052_Familias.jpg"
+	linkURL="images/052_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/052_Familias.jpg">
+    <title><![CDATA[052_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/053_Familias.jpg"
+	thumbURL="thumbs/053_Familias.jpg"
+	linkURL="images/053_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/053_Familias.jpg">
+    <title><![CDATA[053_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/054_Familias.jpg"
+	thumbURL="thumbs/054_Familias.jpg"
+	linkURL="images/054_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/054_Familias.jpg">
+    <title><![CDATA[054_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/055_Familias.jpg"
+	thumbURL="thumbs/055_Familias.jpg"
+	linkURL="images/055_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/055_Familias.jpg">
+    <title><![CDATA[055_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/056_Familias.jpg"
+	thumbURL="thumbs/056_Familias.jpg"
+	linkURL="images/056_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/056_Familias.jpg">
+    <title><![CDATA[056_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/057_Familias.jpg"
+	thumbURL="thumbs/057_Familias.jpg"
+	linkURL="images/057_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/057_Familias.jpg">
+    <title><![CDATA[057_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/058_Familias.jpg"
+	thumbURL="thumbs/058_Familias.jpg"
+	linkURL="images/058_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/058_Familias.jpg">
+    <title><![CDATA[058_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/059_Familias.jpg"
+	thumbURL="thumbs/059_Familias.jpg"
+	linkURL="images/059_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/059_Familias.jpg">
+    <title><![CDATA[059_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/060_Familias.jpg"
+	thumbURL="thumbs/060_Familias.jpg"
+	linkURL="images/060_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/060_Familias.jpg">
+    <title><![CDATA[060_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/061_Familias.jpg"
+	thumbURL="thumbs/061_Familias.jpg"
+	linkURL="images/061_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/061_Familias.jpg">
+    <title><![CDATA[061_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/062_Familias.jpg"
+	thumbURL="thumbs/062_Familias.jpg"
+	linkURL="images/062_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/062_Familias.jpg">
+    <title><![CDATA[062_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/063_Familias.jpg"
+	thumbURL="thumbs/063_Familias.jpg"
+	linkURL="images/063_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/063_Familias.jpg">
+    <title><![CDATA[063_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/064_Familias.jpg"
+	thumbURL="thumbs/064_Familias.jpg"
+	linkURL="images/064_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/064_Familias.jpg">
+    <title><![CDATA[064_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/065_Familias.jpg"
+	thumbURL="thumbs/065_Familias.jpg"
+	linkURL="images/065_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/065_Familias.jpg">
+    <title><![CDATA[065_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/066_Familias.jpg"
+	thumbURL="thumbs/066_Familias.jpg"
+	linkURL="images/066_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/066_Familias.jpg">
+    <title><![CDATA[066_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/067_Familias.jpg"
+	thumbURL="thumbs/067_Familias.jpg"
+	linkURL="images/067_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/067_Familias.jpg">
+    <title><![CDATA[067_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/068_Familias.jpg"
+	thumbURL="thumbs/068_Familias.jpg"
+	linkURL="images/068_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/068_Familias.jpg">
+    <title><![CDATA[068_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/069_Familias.jpg"
+	thumbURL="thumbs/069_Familias.jpg"
+	linkURL="images/069_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/069_Familias.jpg">
+    <title><![CDATA[069_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/070_Familias.jpg"
+	thumbURL="thumbs/070_Familias.jpg"
+	linkURL="images/070_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/070_Familias.jpg">
+    <title><![CDATA[070_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/071_Familias.jpg"
+	thumbURL="thumbs/071_Familias.jpg"
+	linkURL="images/071_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/071_Familias.jpg">
+    <title><![CDATA[071_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/072_Familias.jpg"
+	thumbURL="thumbs/072_Familias.jpg"
+	linkURL="images/072_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/072_Familias.jpg">
+    <title><![CDATA[072_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/073_Familias.jpg"
+	thumbURL="thumbs/073_Familias.jpg"
+	linkURL="images/073_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/073_Familias.jpg">
+    <title><![CDATA[073_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/074_Familias.jpg"
+	thumbURL="thumbs/074_Familias.jpg"
+	linkURL="images/074_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/074_Familias.jpg">
+    <title><![CDATA[074_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/075_Familias.jpg"
+	thumbURL="thumbs/075_Familias.jpg"
+	linkURL="images/075_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/075_Familias.jpg">
+    <title><![CDATA[075_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/076_Familias.jpg"
+	thumbURL="thumbs/076_Familias.jpg"
+	linkURL="images/076_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/076_Familias.jpg">
+    <title><![CDATA[076_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/077_Familias.jpg"
+	thumbURL="thumbs/077_Familias.jpg"
+	linkURL="images/077_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/077_Familias.jpg">
+    <title><![CDATA[077_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/078_Familias.jpg"
+	thumbURL="thumbs/078_Familias.jpg"
+	linkURL="images/078_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/078_Familias.jpg">
+    <title><![CDATA[078_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/079_Familias.jpg"
+	thumbURL="thumbs/079_Familias.jpg"
+	linkURL="images/079_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/079_Familias.jpg">
+    <title><![CDATA[079_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/080_Familias.jpg"
+	thumbURL="thumbs/080_Familias.jpg"
+	linkURL="images/080_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/080_Familias.jpg">
+    <title><![CDATA[080_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/081_Familias.jpg"
+	thumbURL="thumbs/081_Familias.jpg"
+	linkURL="images/081_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/081_Familias.jpg">
+    <title><![CDATA[081_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/082_Familias.jpg"
+	thumbURL="thumbs/082_Familias.jpg"
+	linkURL="images/082_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/082_Familias.jpg">
+    <title><![CDATA[082_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/083_Familias.jpg"
+	thumbURL="thumbs/083_Familias.jpg"
+	linkURL="images/083_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/083_Familias.jpg">
+    <title><![CDATA[083_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/084_Familias.jpg"
+	thumbURL="thumbs/084_Familias.jpg"
+	linkURL="images/084_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/084_Familias.jpg">
+    <title><![CDATA[084_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/085_Familias.jpg"
+	thumbURL="thumbs/085_Familias.jpg"
+	linkURL="images/085_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/085_Familias.jpg">
+    <title><![CDATA[085_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/086_Familias.jpg"
+	thumbURL="thumbs/086_Familias.jpg"
+	linkURL="images/086_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/086_Familias.jpg">
+    <title><![CDATA[086_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/087_Familias.jpg"
+	thumbURL="thumbs/087_Familias.jpg"
+	linkURL="images/087_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/087_Familias.jpg">
+    <title><![CDATA[087_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/088_Familias.jpg"
+	thumbURL="thumbs/088_Familias.jpg"
+	linkURL="images/088_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/088_Familias.jpg">
+    <title><![CDATA[088_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/089_Familias.jpg"
+	thumbURL="thumbs/089_Familias.jpg"
+	linkURL="images/089_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/089_Familias.jpg">
+    <title><![CDATA[089_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/090_Familias.jpg"
+	thumbURL="thumbs/090_Familias.jpg"
+	linkURL="images/090_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/090_Familias.jpg">
+    <title><![CDATA[090_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/091_Familias.jpg"
+	thumbURL="thumbs/091_Familias.jpg"
+	linkURL="images/091_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/091_Familias.jpg">
+    <title><![CDATA[091_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/092_Familias.jpg"
+	thumbURL="thumbs/092_Familias.jpg"
+	linkURL="images/092_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/092_Familias.jpg">
+    <title><![CDATA[092_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/093_Familias.jpg"
+	thumbURL="thumbs/093_Familias.jpg"
+	linkURL="images/093_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/093_Familias.jpg">
+    <title><![CDATA[093_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/094_Familias.jpg"
+	thumbURL="thumbs/094_Familias.jpg"
+	linkURL="images/094_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/094_Familias.jpg">
+    <title><![CDATA[094_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/095_Familias.jpg"
+	thumbURL="thumbs/095_Familias.jpg"
+	linkURL="images/095_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/095_Familias.jpg">
+    <title><![CDATA[095_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/096_Familias.jpg"
+	thumbURL="thumbs/096_Familias.jpg"
+	linkURL="images/096_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/096_Familias.jpg">
+    <title><![CDATA[096_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/097_Familias.jpg"
+	thumbURL="thumbs/097_Familias.jpg"
+	linkURL="images/097_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/097_Familias.jpg">
+    <title><![CDATA[097_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/098_Familias.jpg"
+	thumbURL="thumbs/098_Familias.jpg"
+	linkURL="images/098_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/098_Familias.jpg">
+    <title><![CDATA[098_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/099_Familias.jpg"
+	thumbURL="thumbs/099_Familias.jpg"
+	linkURL="images/099_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/099_Familias.jpg">
+    <title><![CDATA[099_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/100_Familias.jpg"
+	thumbURL="thumbs/100_Familias.jpg"
+	linkURL="images/100_Familias.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/Galeria4_familias/images/100_Familias.jpg">
+    <title><![CDATA[100_Familias]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
