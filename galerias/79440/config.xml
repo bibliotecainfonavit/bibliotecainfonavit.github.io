@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+        backgroundColor="rgba(255, 255, 255, 1)"
+        useFullscreenExpand="true"
+        enableLooping="true"
+        stagePadding="50"
+        galleryTitlePosition="TOP"
+        galleryTitleHAlign="CENTER"
+        rememberPassword="false"
+        captionBackColor="rgba(204,204,204,0.3)"
+        buttonBarBackColor="rgba(204,204,204,0.5)"
+        imageFrameColor="rgba(255,255,255,1)"
+        thumbDotColor="rgba(255,255,255,0.4)"
+        expandedBackgroundColor="rgba(255, 255, 255, 1)"
+        imagePreloading="NEXT"
+        imageShadowBlur="0"
+        thumbSelectedFrameWidth="8"
+        thumbCornerRadius="5"
+        buttonBarPosition="OVERLAY"
+        showAutoPlayButton="true"
+        showDownloadButton="true"
+        showEmailButton="true"
+        emailAddress=""
+        emailSubject=""
+        buttonBarIconSize="15"
+        captionPosition="BELOW_IMAGE"
+        maxCaptionHeight="40"
+        enableAutoPlay="true"
+        autoPlayOnLoad="true"
+        displayTime="3"
+        goNextOnAutoPlay="true"
+        shareFacebook="false"
+        shareTwitter="false"
+        shareGPlus="false"
+        sharePinterest="false"
+        watermarkHAlign="LEFT"
+        watermarkVAlign="TOP"
+        watermarkPath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerí??as/firma.png"
+        useWatermark="true"
+        backgroundUrl="https://infonavit.janium.net/janium/Imagenes2022/header.jpg"
+        backgroundScale="NONE"
+        buttonBarHAlign="CENTER"
+        addSEOContent="false"
+        showExpandButton="false"
+        showThumbsButton="false"
+        showSmallThumbsButton="true"
+        showSmallPagingText="true"
+        showOpenButton="false"
+
+>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_1_79212.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_1_79212.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_1_79212.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_1_79212.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_1_79212]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_2_79217.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_2_79217.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_2_79217.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_2_79217.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_2_79217]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_3_79218.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_3_79218.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_3_79218.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_3_79218.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_3_79218]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_4_79220.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_4_79220.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_4_79220.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_4_79220.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_4_79220]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_5_79222.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_5_79222.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_5_79222.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_5_79222.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_5_79222]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_6_79224.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_6_79224.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_6_79224.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_6_79224.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_6_79224]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_7_79226.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_7_79226.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_7_79226.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_7_79226.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_7_79226]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_8_79227.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_8_79227.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_8_79227.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_8_79227.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_8_79227]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_9_79228.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_9_79228.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_9_79228.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_9_79228.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_9_79228]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_10_79230.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_10_79230.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_10_79230.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_10_79230.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_10_79230]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_11_79232.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_11_79232.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_11_79232.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_11_79232.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_11_79232]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_12_79233.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_12_79233.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_12_79233.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_12_79233.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_12_79233]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_13_79234.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_13_79234.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_13_79234.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_13_79234.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_13_79234]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_14_79235.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_14_79235.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_14_79235.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_14_79235.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_14_79235]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_15_79236.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_15_79236.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_15_79236.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_15_79236.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_15_79236]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_16_79237.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_16_79237.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_16_79237.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_16_79237.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_16_79237]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_17_79238.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_17_79238.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_17_79238.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_17_79238.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_17_79238]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_18_79239.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_18_79239.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_18_79239.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_18_79239.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_18_79239]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_19_79240.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_19_79240.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_19_79240.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_19_79240.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_19_79240]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_20_79241.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_20_79241.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_20_79241.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_20_79241.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_20_79241]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_21_79242.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_21_79242.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_21_79242.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_21_79242.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_21_79242]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_22_79243.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_22_79243.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_22_79243.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_22_79243.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_22_79243]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_23_79244.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_23_79244.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_23_79244.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_23_79244.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_23_79244]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_24_79245.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_24_79245.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_24_79245.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_24_79245.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_24_79245]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_25_79246.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_25_79246.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_25_79246.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_25_79246.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_25_79246]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_26_79247.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_26_79247.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_26_79247.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_26_79247.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_26_79247]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_27_79248.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_27_79248.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_27_79248.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_27_79248.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_27_79248]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_28_79249.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_28_79249.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_28_79249.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_28_79249.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_28_79249]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_29_79250.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_29_79250.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_29_79250.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_29_79250.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_29_79250]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_30_79251.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_30_79251.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_30_79251.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_30_79251.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_30_79251]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_31_79252.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_31_79252.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_31_79252.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_31_79252.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_31_79252]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_32_79253.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_32_79253.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_32_79253.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_32_79253.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_32_79253]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_33_79254.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_33_79254.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_33_79254.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_33_79254.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_33_79254]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_34_79255.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_34_79255.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_34_79255.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_34_79255.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_34_79255]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_35_79256.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_35_79256.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_35_79256.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_35_79256.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_35_79256]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_36_79257.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_36_79257.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_36_79257.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_36_79257.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_36_79257]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_37_79258.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_37_79258.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_37_79258.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_37_79258.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_37_79258]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_38_79259.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_38_79259.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_38_79259.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_38_79259.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_38_79259]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_39_79260.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_39_79260.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_39_79260.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_39_79260.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_39_79260]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_40_79261.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_40_79261.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_40_79261.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_40_79261.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_40_79261]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_41_79262.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_41_79262.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_41_79262.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_41_79262.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_41_79262]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_42_79263.jpg"
+	thumbURL="thumbs/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_42_79263.jpg"
+	linkURL="images/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_42_79263.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79440/Originales/Ceremonia_de_entrega_de_presea_Casa_de_Cristal_42_79263.jpg">
+    <title><![CDATA[Ceremonia_de_entrega_de_presea_Casa_de_Cristal_42_79263]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
