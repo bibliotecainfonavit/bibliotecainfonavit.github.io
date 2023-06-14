@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+        backgroundColor="rgba(255, 255, 255, 1)"
+        useFullscreenExpand="true"
+        enableLooping="true"
+        stagePadding="50"
+        galleryTitlePosition="TOP"
+        galleryTitleHAlign="CENTER"
+        rememberPassword="false"
+        captionBackColor="rgba(204,204,204,0.3)"
+        buttonBarBackColor="rgba(204,204,204,0.5)"
+        imageFrameColor="rgba(255,255,255,1)"
+        thumbDotColor="rgba(255,255,255,0.4)"
+        expandedBackgroundColor="rgba(255, 255, 255, 1)"
+        imagePreloading="NEXT"
+        imageShadowBlur="0"
+        thumbSelectedFrameWidth="8"
+        thumbCornerRadius="5"
+        buttonBarPosition="OVERLAY"
+        showAutoPlayButton="true"
+        showDownloadButton="true"
+        showEmailButton="true"
+        emailAddress=""
+        emailSubject=""
+        buttonBarIconSize="15"
+        captionPosition="BELOW_IMAGE"
+        maxCaptionHeight="40"
+        enableAutoPlay="true"
+        autoPlayOnLoad="true"
+        displayTime="3"
+        goNextOnAutoPlay="true"
+        shareFacebook="false"
+        shareTwitter="false"
+        shareGPlus="false"
+        sharePinterest="false"
+        watermarkHAlign="LEFT"
+        watermarkVAlign="TOP"
+        watermarkPath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerí??as/firma.png"
+        useWatermark="true"
+        backgroundUrl="https://infonavit.janium.net/janium/Imagenes2022/header.jpg"
+        backgroundScale="NONE"
+        buttonBarHAlign="CENTER"
+        addSEOContent="false"
+        showExpandButton="false"
+        showThumbsButton="false"
+        showSmallThumbsButton="true"
+        showSmallPagingText="true"
+        showOpenButton="false"
+
+>
+  <image imageURL="images/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_1_77344.jpg"
+	thumbURL="thumbs/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_1_77344.jpg"
+	linkURL="images/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_1_77344.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79454/Originales/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_1_77344.jpg">
+    <title><![CDATA[Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_1_77344]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_2_77345.jpg"
+	thumbURL="thumbs/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_2_77345.jpg"
+	linkURL="images/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_2_77345.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79454/Originales/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_2_77345.jpg">
+    <title><![CDATA[Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_2_77345]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_3_77346.jpg"
+	thumbURL="thumbs/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_3_77346.jpg"
+	linkURL="images/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_3_77346.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79454/Originales/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_3_77346.jpg">
+    <title><![CDATA[Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_3_77346]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_4_77347.jpg"
+	thumbURL="thumbs/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_4_77347.jpg"
+	linkURL="images/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_4_77347.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79454/Originales/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_4_77347.jpg">
+    <title><![CDATA[Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_4_77347]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_5_77348.jpg"
+	thumbURL="thumbs/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_5_77348.jpg"
+	linkURL="images/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_5_77348.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79454/Originales/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_5_77348.jpg">
+    <title><![CDATA[Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_5_77348]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_6_77349.jpg"
+	thumbURL="thumbs/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_6_77349.jpg"
+	linkURL="images/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_6_77349.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79454/Originales/Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_6_77349.jpg">
+    <title><![CDATA[Beneficiarios_Unamos_Creditos__Delegacion_Queretaro_6_77349]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
