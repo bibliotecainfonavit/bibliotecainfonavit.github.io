@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+        backgroundColor="rgba(255, 255, 255, 1)"
+        useFullscreenExpand="true"
+        enableLooping="true"
+        stagePadding="50"
+        galleryTitlePosition="TOP"
+        galleryTitleHAlign="CENTER"
+        rememberPassword="false"
+        captionBackColor="rgba(204,204,204,0.3)"
+        buttonBarBackColor="rgba(204,204,204,0.5)"
+        imageFrameColor="rgba(255,255,255,1)"
+        thumbDotColor="rgba(255,255,255,0.4)"
+        expandedBackgroundColor="rgba(255, 255, 255, 1)"
+        imagePreloading="NEXT"
+        imageShadowBlur="0"
+        thumbSelectedFrameWidth="8"
+        thumbCornerRadius="5"
+        buttonBarPosition="OVERLAY"
+        showAutoPlayButton="true"
+        showDownloadButton="true"
+        showEmailButton="true"
+        emailAddress=""
+        emailSubject=""
+        buttonBarIconSize="15"
+        captionPosition="BELOW_IMAGE"
+        maxCaptionHeight="40"
+        enableAutoPlay="true"
+        autoPlayOnLoad="true"
+        displayTime="3"
+        goNextOnAutoPlay="true"
+        shareFacebook="false"
+        shareTwitter="false"
+        shareGPlus="false"
+        sharePinterest="false"
+        watermarkHAlign="LEFT"
+        watermarkVAlign="TOP"
+        watermarkPath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerí?
+?as/Firma inst-Infonavit 2019-Color negro 25%.png"
+        useWatermark="true"
+        backgroundUrl="https://infonavit.janium.net/janium/Imagenes2022/header.jpg"
+        backgroundScale="NONE"
+        buttonBarHAlign="CENTER"
+        addSEOContent="false"
+        showExpandButton="false"
+        showThumbsButton="false"
+        showSmallThumbsButton="true"
+        showSmallPagingText="true"
+        showOpenButton="false"
+
+>
+  <image imageURL="images/Cesi_Barranca_del_Muerto_76096.jpg"
+	thumbURL="thumbs/Cesi_Barranca_del_Muerto_76096.jpg"
+	linkURL="images/Cesi_Barranca_del_Muerto_76096.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Cesi_Barranca_del_Muerto_76096.jpg">
+    <title><![CDATA[Cesi_Barranca_del_Muerto_76096]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Barranca_del_Muerto_76097.jpg"
+	thumbURL="thumbs/Cesi_Barranca_del_Muerto_76097.jpg"
+	linkURL="images/Cesi_Barranca_del_Muerto_76097.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Cesi_Barranca_del_Muerto_76097.jpg">
+    <title><![CDATA[Cesi_Barranca_del_Muerto_76097]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Barranca_del_Muerto_76098.jpg"
+	thumbURL="thumbs/Cesi_Barranca_del_Muerto_76098.jpg"
+	linkURL="images/Cesi_Barranca_del_Muerto_76098.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Cesi_Barranca_del_Muerto_76098.jpg">
+    <title><![CDATA[Cesi_Barranca_del_Muerto_76098]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Barranca_del_Muerto_76099.jpg"
+	thumbURL="thumbs/Cesi_Barranca_del_Muerto_76099.jpg"
+	linkURL="images/Cesi_Barranca_del_Muerto_76099.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Cesi_Barranca_del_Muerto_76099.jpg">
+    <title><![CDATA[Cesi_Barranca_del_Muerto_76099]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Barranca_del_Muerto_76100.jpg"
+	thumbURL="thumbs/Cesi_Barranca_del_Muerto_76100.jpg"
+	linkURL="images/Cesi_Barranca_del_Muerto_76100.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Cesi_Barranca_del_Muerto_76100.jpg">
+    <title><![CDATA[Cesi_Barranca_del_Muerto_76100]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Barranca_del_Muerto_76101.jpg"
+	thumbURL="thumbs/Cesi_Barranca_del_Muerto_76101.jpg"
+	linkURL="images/Cesi_Barranca_del_Muerto_76101.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Cesi_Barranca_del_Muerto_76101.jpg">
+    <title><![CDATA[Cesi_Barranca_del_Muerto_76101]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Barranca_del_Muerto_76102.jpg"
+	thumbURL="thumbs/Cesi_Barranca_del_Muerto_76102.jpg"
+	linkURL="images/Cesi_Barranca_del_Muerto_76102.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Cesi_Barranca_del_Muerto_76102.jpg">
+    <title><![CDATA[Cesi_Barranca_del_Muerto_76102]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Barranca_del_Muerto_76103.jpg"
+	thumbURL="thumbs/Cesi_Barranca_del_Muerto_76103.jpg"
+	linkURL="images/Cesi_Barranca_del_Muerto_76103.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Cesi_Barranca_del_Muerto_76103.jpg">
+    <title><![CDATA[Cesi_Barranca_del_Muerto_76103]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Barranca_del_Muerto_76104.jpg"
+	thumbURL="thumbs/Cesi_Barranca_del_Muerto_76104.jpg"
+	linkURL="images/Cesi_Barranca_del_Muerto_76104.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Cesi_Barranca_del_Muerto_76104.jpg">
+    <title><![CDATA[Cesi_Barranca_del_Muerto_76104]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Barranca_del_Muerto_76105.jpg"
+	thumbURL="thumbs/Cesi_Barranca_del_Muerto_76105.jpg"
+	linkURL="images/Cesi_Barranca_del_Muerto_76105.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Cesi_Barranca_del_Muerto_76105.jpg">
+    <title><![CDATA[Cesi_Barranca_del_Muerto_76105]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Barranca_del_Muerto_76106.jpg"
+	thumbURL="thumbs/Cesi_Barranca_del_Muerto_76106.jpg"
+	linkURL="images/Cesi_Barranca_del_Muerto_76106.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Cesi_Barranca_del_Muerto_76106.jpg">
+    <title><![CDATA[Cesi_Barranca_del_Muerto_76106]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_Credito__Oficinas_Centrales_77292.jpg"
+	thumbURL="thumbs/Colaboradores_Credito__Oficinas_Centrales_77292.jpg"
+	linkURL="images/Colaboradores_Credito__Oficinas_Centrales_77292.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_Credito__Oficinas_Centrales_77292.jpg">
+    <title><![CDATA[Colaboradores_Credito__Oficinas_Centrales_77292]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_Credito__Oficinas_Centrales_77293.jpg"
+	thumbURL="thumbs/Colaboradores_Credito__Oficinas_Centrales_77293.jpg"
+	linkURL="images/Colaboradores_Credito__Oficinas_Centrales_77293.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_Credito__Oficinas_Centrales_77293.jpg">
+    <title><![CDATA[Colaboradores_Credito__Oficinas_Centrales_77293]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oficinas_Centrales_77294.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oficinas_Centrales_77294.jpg"
+	linkURL="images/Colaboradores_CESI__Oficinas_Centrales_77294.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_CESI__Oficinas_Centrales_77294.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oficinas_Centrales_77294]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oficinas_Centrales_77295.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oficinas_Centrales_77295.jpg"
+	linkURL="images/Colaboradores_CESI__Oficinas_Centrales_77295.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_CESI__Oficinas_Centrales_77295.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oficinas_Centrales_77295]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oficinas_Centrales_77296.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oficinas_Centrales_77296.jpg"
+	linkURL="images/Colaboradores_CESI__Oficinas_Centrales_77296.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_CESI__Oficinas_Centrales_77296.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oficinas_Centrales_77296]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oficinas_Centrales_77297.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oficinas_Centrales_77297.jpg"
+	linkURL="images/Colaboradores_CESI__Oficinas_Centrales_77297.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_CESI__Oficinas_Centrales_77297.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oficinas_Centrales_77297]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oficinas_Centrales_77298.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oficinas_Centrales_77298.jpg"
+	linkURL="images/Colaboradores_CESI__Oficinas_Centrales_77298.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_CESI__Oficinas_Centrales_77298.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oficinas_Centrales_77298]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_Credito__Oficinas_Centrales_77302.jpg"
+	thumbURL="thumbs/Colaboradores_Credito__Oficinas_Centrales_77302.jpg"
+	linkURL="images/Colaboradores_Credito__Oficinas_Centrales_77302.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_Credito__Oficinas_Centrales_77302.jpg">
+    <title><![CDATA[Colaboradores_Credito__Oficinas_Centrales_77302]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_Credito__Oficinas_Centrales_77303.jpg"
+	thumbURL="thumbs/Colaboradores_Credito__Oficinas_Centrales_77303.jpg"
+	linkURL="images/Colaboradores_Credito__Oficinas_Centrales_77303.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_Credito__Oficinas_Centrales_77303.jpg">
+    <title><![CDATA[Colaboradores_Credito__Oficinas_Centrales_77303]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_Credito__Oficinas_Centrales_77304.jpg"
+	thumbURL="thumbs/Colaboradores_Credito__Oficinas_Centrales_77304.jpg"
+	linkURL="images/Colaboradores_Credito__Oficinas_Centrales_77304.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_Credito__Oficinas_Centrales_77304.jpg">
+    <title><![CDATA[Colaboradores_Credito__Oficinas_Centrales_77304]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_Credito__Oficinas_Centrales_77305.jpg"
+	thumbURL="thumbs/Colaboradores_Credito__Oficinas_Centrales_77305.jpg"
+	linkURL="images/Colaboradores_Credito__Oficinas_Centrales_77305.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_Credito__Oficinas_Centrales_77305.jpg">
+    <title><![CDATA[Colaboradores_Credito__Oficinas_Centrales_77305]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_Credito__Oficinas_Centrales_77306.jpg"
+	thumbURL="thumbs/Colaboradores_Credito__Oficinas_Centrales_77306.jpg"
+	linkURL="images/Colaboradores_Credito__Oficinas_Centrales_77306.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_Credito__Oficinas_Centrales_77306.jpg">
+    <title><![CDATA[Colaboradores_Credito__Oficinas_Centrales_77306]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_Credito__Oficinas_Centrales_77307.jpg"
+	thumbURL="thumbs/Colaboradores_Credito__Oficinas_Centrales_77307.jpg"
+	linkURL="images/Colaboradores_Credito__Oficinas_Centrales_77307.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_Credito__Oficinas_Centrales_77307.jpg">
+    <title><![CDATA[Colaboradores_Credito__Oficinas_Centrales_77307]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_Credito__Oficinas_Centrales_77308.jpg"
+	thumbURL="thumbs/Colaboradores_Credito__Oficinas_Centrales_77308.jpg"
+	linkURL="images/Colaboradores_Credito__Oficinas_Centrales_77308.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_Credito__Oficinas_Centrales_77308.jpg">
+    <title><![CDATA[Colaboradores_Credito__Oficinas_Centrales_77308]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_Credito__Oficinas_Centrales_77310.jpg"
+	thumbURL="thumbs/Colaboradores_Credito__Oficinas_Centrales_77310.jpg"
+	linkURL="images/Colaboradores_Credito__Oficinas_Centrales_77310.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_Credito__Oficinas_Centrales_77310.jpg">
+    <title><![CDATA[Colaboradores_Credito__Oficinas_Centrales_77310]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_Credito__Oficinas_Centrales_77311.jpg"
+	thumbURL="thumbs/Colaboradores_Credito__Oficinas_Centrales_77311.jpg"
+	linkURL="images/Colaboradores_Credito__Oficinas_Centrales_77311.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_Credito__Oficinas_Centrales_77311.jpg">
+    <title><![CDATA[Colaboradores_Credito__Oficinas_Centrales_77311]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_Credito__Oficinas_Centrales_77312.jpg"
+	thumbURL="thumbs/Colaboradores_Credito__Oficinas_Centrales_77312.jpg"
+	linkURL="images/Colaboradores_Credito__Oficinas_Centrales_77312.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_Credito__Oficinas_Centrales_77312.jpg">
+    <title><![CDATA[Colaboradores_Credito__Oficinas_Centrales_77312]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_Credito__Oficinas_Centrales_77313.jpg"
+	thumbURL="thumbs/Colaboradores_Credito__Oficinas_Centrales_77313.jpg"
+	linkURL="images/Colaboradores_Credito__Oficinas_Centrales_77313.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79508/Originales/Colaboradores_Credito__Oficinas_Centrales_77313.jpg">
+    <title><![CDATA[Colaboradores_Credito__Oficinas_Centrales_77313]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Metepec_76021.jpg"
+	thumbURL="thumbs/Cesi_Metepec_76021.jpg"
+	linkURL="images/Colaboradores_ Comunicación_Oficinas_centales_76021.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79509/Originales/Cesi_Metepec_76021.jpg">
+    <title><![CDATA[Colaboradores_ Comunicación_Oficinas_centales_76021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
