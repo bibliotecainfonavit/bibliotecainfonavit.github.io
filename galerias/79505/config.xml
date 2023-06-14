@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+        backgroundColor="rgba(255, 255, 255, 1)"
+        useFullscreenExpand="true"
+        enableLooping="true"
+        stagePadding="50"
+        galleryTitlePosition="TOP"
+        galleryTitleHAlign="CENTER"
+        rememberPassword="false"
+        captionBackColor="rgba(204,204,204,0.3)"
+        buttonBarBackColor="rgba(204,204,204,0.5)"
+        imageFrameColor="rgba(255,255,255,1)"
+        thumbDotColor="rgba(255,255,255,0.4)"
+        expandedBackgroundColor="rgba(255, 255, 255, 1)"
+        imagePreloading="NEXT"
+        imageShadowBlur="0"
+        thumbSelectedFrameWidth="8"
+        thumbCornerRadius="5"
+        buttonBarPosition="OVERLAY"
+        showAutoPlayButton="true"
+        showDownloadButton="true"
+        showEmailButton="true"
+        emailAddress=""
+        emailSubject=""
+        buttonBarIconSize="15"
+        captionPosition="BELOW_IMAGE"
+        maxCaptionHeight="40"
+        enableAutoPlay="true"
+        autoPlayOnLoad="true"
+        displayTime="3"
+        goNextOnAutoPlay="true"
+        shareFacebook="false"
+        shareTwitter="false"
+        shareGPlus="false"
+        sharePinterest="false"
+        watermarkHAlign="LEFT"
+        watermarkVAlign="TOP"
+        watermarkPath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerí?as/Firma inst-Infonavit 2019-Color negro 25%.png"
+        useWatermark="true"
+        backgroundUrl="https://infonavit.janium.net/janium/Imagenes2022/header.jpg"
+        backgroundScale="NONE"
+        buttonBarHAlign="CENTER"
+        addSEOContent="false"
+        showExpandButton="false"
+        showThumbsButton="false"
+        showSmallThumbsButton="true"
+        showSmallPagingText="true"
+        showOpenButton="false"
+
+>
+  <image imageURL="images/Cesi_Puebla_73240.jpg"
+	thumbURL="thumbs/Cesi_Puebla_73240.jpg"
+	linkURL="images/Cesi_Puebla_73240.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79505/Originales/Cesi_Puebla_73240.jpg">
+    <title><![CDATA[Cesi_Puebla_73240]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Puebla_73243.jpg"
+	thumbURL="thumbs/Cesi_Puebla_73243.jpg"
+	linkURL="images/Cesi_Puebla_73243.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79505/Originales/Cesi_Puebla_73243.jpg">
+    <title><![CDATA[Cesi_Puebla_73243]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Puebla_73245.jpg"
+	thumbURL="thumbs/Cesi_Puebla_73245.jpg"
+	linkURL="images/Cesi_Puebla_73245.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79505/Originales/Cesi_Puebla_73245.jpg">
+    <title><![CDATA[Cesi_Puebla_73245]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Puebla_73247.jpg"
+	thumbURL="thumbs/Cesi_Puebla_73247.jpg"
+	linkURL="images/Cesi_Puebla_73247.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79505/Originales/Cesi_Puebla_73247.jpg">
+    <title><![CDATA[Cesi_Puebla_73247]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Puebla_73252.jpg"
+	thumbURL="thumbs/Cesi_Puebla_73252.jpg"
+	linkURL="images/Cesi_Puebla_73252.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79505/Originales/Cesi_Puebla_73252.jpg">
+    <title><![CDATA[Cesi_Puebla_73252]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Puebla_73254.jpg"
+	thumbURL="thumbs/Cesi_Puebla_73254.jpg"
+	linkURL="images/Cesi_Puebla_73254.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79505/Originales/Cesi_Puebla_73254.jpg">
+    <title><![CDATA[Cesi_Puebla_73254]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Puebla_73256.jpg"
+	thumbURL="thumbs/Cesi_Puebla_73256.jpg"
+	linkURL="images/Cesi_Puebla_73256.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79505/Originales/Cesi_Puebla_73256.jpg">
+    <title><![CDATA[Cesi_Puebla_73256]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Puebla_73259.jpg"
+	thumbURL="thumbs/Cesi_Puebla_73259.jpg"
+	linkURL="images/Cesi_Puebla_73259.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79505/Originales/Cesi_Puebla_73259.jpg">
+    <title><![CDATA[Cesi_Puebla_73259]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
