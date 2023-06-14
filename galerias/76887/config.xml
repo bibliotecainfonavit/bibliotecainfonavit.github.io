@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+        backgroundColor="rgba(255, 255, 255, 1)"
+        useFullscreenExpand="true"
+        enableLooping="true"
+        stagePadding="50"
+        galleryTitlePosition="TOP"
+        galleryTitleHAlign="CENTER"
+        rememberPassword="false"
+        captionBackColor="rgba(204,204,204,0.3)"
+        buttonBarBackColor="rgba(204,204,204,0.5)"
+        imageFrameColor="rgba(255,255,255,1)"
+        thumbDotColor="rgba(255,255,255,0.4)"
+        expandedBackgroundColor="rgba(255, 255, 255, 1)"
+        imagePreloading="NEXT"
+        imageShadowBlur="0"
+        thumbSelectedFrameWidth="8"
+        thumbCornerRadius="5"
+        buttonBarPosition="OVERLAY"
+        showAutoPlayButton="true"
+        showDownloadButton="true"
+        showEmailButton="true"
+        emailAddress=""
+        emailSubject=""
+        buttonBarIconSize="15"
+        captionPosition="BELOW_IMAGE"
+        maxCaptionHeight="40"
+        enableAutoPlay="true"
+        autoPlayOnLoad="true"
+        displayTime="3"
+        goNextOnAutoPlay="true"
+        shareFacebook="false"
+        shareTwitter="false"
+        shareGPlus="false"
+        sharePinterest="false"
+        watermarkHAlign="LEFT"
+        watermarkVAlign="TOP"
+        watermarkPath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerí?as/Firma inst-Infonavit 2019-Color negro 25%.png"
+        useWatermark="true"
+        backgroundUrl="https://infonavit.janium.net/janium/Imagenes2022/header.jpg"
+        backgroundScale="NONE"
+        buttonBarHAlign="CENTER"
+        addSEOContent="false"
+        showExpandButton="false"
+        showThumbsButton="false"
+        showSmallThumbsButton="true"
+        showSmallPagingText="true"
+        showOpenButton="false"
+
+>
+  <image imageURL="images/01_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/01_Regeneracion_urbana_1.jpg"
+	linkURL="images/01_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/01_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[01_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/02_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/02_Regeneracion_urbana_1.jpg"
+	linkURL="images/02_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/02_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[02_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/03_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/03_Regeneracion_urbana_1.jpg"
+	linkURL="images/03_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/03_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[03_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/04_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/04_Regeneracion_urbana_1.jpg"
+	linkURL="images/04_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/04_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[04_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/05_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/05_Regeneracion_urbana_1.jpg"
+	linkURL="images/05_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/05_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[05_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/06_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/06_Regeneracion_urbana_1.jpg"
+	linkURL="images/06_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/06_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[06_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/07_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/07_Regeneracion_urbana_1.jpg"
+	linkURL="images/07_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/07_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[07_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/08_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/08_Regeneracion_urbana_1.jpg"
+	linkURL="images/08_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/08_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[08_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/09_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/09_Regeneracion_urbana_1.jpg"
+	linkURL="images/09_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/09_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[09_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/10_Regeneracion_urbana_1.jpg"
+	linkURL="images/10_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/10_Regeneracion_urbana_1.png">
+    <title><![CDATA[10_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/11_Regeneracion_urbana_1.jpg"
+	linkURL="images/11_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/11_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[11_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/12_Regeneracion_urbana_1.jpg"
+	linkURL="images/12_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/12_Regeneracion_urbana_1.png">
+    <title><![CDATA[12_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/13_Regeneracion_urbana_1.jpg"
+	linkURL="images/13_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/13_Regeneracion_urbana_1.png">
+    <title><![CDATA[13_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/14_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/14_Regeneracion_urbana_1.jpg"
+	linkURL="images/14_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/14_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[14_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/15_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/15_Regeneracion_urbana_1.jpg"
+	linkURL="images/15_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/15_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[15_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/16_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/16_Regeneracion_urbana_1.jpg"
+	linkURL="images/16_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/16_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[16_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/17_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/17_Regeneracion_urbana_1.jpg"
+	linkURL="images/17_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/17_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[17_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/18_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/18_Regeneracion_urbana_1.jpg"
+	linkURL="images/18_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/18_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[18_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/19_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/19_Regeneracion_urbana_1.jpg"
+	linkURL="images/19_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/19_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[19_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/20_Regeneracion_urbana_1.jpg"
+	linkURL="images/20_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/20_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[20_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/21_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/21_Regeneracion_urbana_1.jpg"
+	linkURL="images/21_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/21_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[21_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/22_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/22_Regeneracion_urbana_1.jpg"
+	linkURL="images/22_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/22_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[22_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/23_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/23_Regeneracion_urbana_1.jpg"
+	linkURL="images/23_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/23_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[23_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/24_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/24_Regeneracion_urbana_1.jpg"
+	linkURL="images/24_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/24_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[24_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/25_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/25_Regeneracion_urbana_1.jpg"
+	linkURL="images/25_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/25_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[25_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/26_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/26_Regeneracion_urbana_1.jpg"
+	linkURL="images/26_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/26_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[26_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/27_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/27_Regeneracion_urbana_1.jpg"
+	linkURL="images/27_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/27_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[27_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/28_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/28_Regeneracion_urbana_1.jpg"
+	linkURL="images/28_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/28_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[28_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/29_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/29_Regeneracion_urbana_1.jpg"
+	linkURL="images/29_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/29_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[29_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/30_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/30_Regeneracion_urbana_1.jpg"
+	linkURL="images/30_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/30_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[30_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/31_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/31_Regeneracion_urbana_1.jpg"
+	linkURL="images/31_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/31_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[31_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/32_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/32_Regeneracion_urbana_1.jpg"
+	linkURL="images/32_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/32_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[32_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/33_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/33_Regeneracion_urbana_1.jpg"
+	linkURL="images/33_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/33_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[33_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/34_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/34_Regeneracion_urbana_1.jpg"
+	linkURL="images/34_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/34_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[34_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/35_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/35_Regeneracion_urbana_1.jpg"
+	linkURL="images/35_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/35_Regeneracion_urbana_1.png">
+    <title><![CDATA[35_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/36_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/36_Regeneracion_urbana_1.jpg"
+	linkURL="images/36_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/36_Regeneracion_urbana_1.png">
+    <title><![CDATA[36_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/37_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/37_Regeneracion_urbana_1.jpg"
+	linkURL="images/37_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/37_Regeneracion_urbana_1.png">
+    <title><![CDATA[37_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/38_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/38_Regeneracion_urbana_1.jpg"
+	linkURL="images/38_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/38_Regeneracion_urbana_1.png">
+    <title><![CDATA[38_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/39_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/39_Regeneracion_urbana_1.jpg"
+	linkURL="images/39_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/39_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[39_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/40_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/40_Regeneracion_urbana_1.jpg"
+	linkURL="images/40_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/40_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[40_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/41_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/41_Regeneracion_urbana_1.jpg"
+	linkURL="images/41_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/41_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[41_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/42_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/42_Regeneracion_urbana_1.jpg"
+	linkURL="images/42_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/42_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[42_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/43_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/43_Regeneracion_urbana_1.jpg"
+	linkURL="images/43_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/43_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[43_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/44_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/44_Regeneracion_urbana_1.jpg"
+	linkURL="images/44_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/44_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[44_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/45_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/45_Regeneracion_urbana_1.jpg"
+	linkURL="images/45_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/45_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[45_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/46_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/46_Regeneracion_urbana_1.jpg"
+	linkURL="images/46_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/46_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[46_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/47_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/47_Regeneracion_urbana_1.jpg"
+	linkURL="images/47_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/47_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[47_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/48_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/48_Regeneracion_urbana_1.jpg"
+	linkURL="images/48_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/48_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[48_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/49_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/49_Regeneracion_urbana_1.jpg"
+	linkURL="images/49_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/49_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[49_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/50_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/50_Regeneracion_urbana_1.jpg"
+	linkURL="images/50_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/50_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[50_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/51_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/51_Regeneracion_urbana_1.jpg"
+	linkURL="images/51_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/51_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[51_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/52_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/52_Regeneracion_urbana_1.jpg"
+	linkURL="images/52_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/52_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[52_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/53_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/53_Regeneracion_urbana_1.jpg"
+	linkURL="images/53_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/53_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[53_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/54_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/54_Regeneracion_urbana_1.jpg"
+	linkURL="images/54_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/54_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[54_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/55_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/55_Regeneracion_urbana_1.jpg"
+	linkURL="images/55_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/55_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[55_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/56_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/56_Regeneracion_urbana_1.jpg"
+	linkURL="images/56_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/56_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[56_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/57_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/57_Regeneracion_urbana_1.jpg"
+	linkURL="images/57_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/57_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[57_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/58_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/58_Regeneracion_urbana_1.jpg"
+	linkURL="images/58_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/58_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[58_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/59_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/59_Regeneracion_urbana_1.jpg"
+	linkURL="images/59_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/59_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[59_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/60_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/60_Regeneracion_urbana_1.jpg"
+	linkURL="images/60_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/60_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[60_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/61_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/61_Regeneracion_urbana_1.jpg"
+	linkURL="images/61_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/61_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[61_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/62_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/62_Regeneracion_urbana_1.jpg"
+	linkURL="images/62_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/62_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[62_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/63_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/63_Regeneracion_urbana_1.jpg"
+	linkURL="images/63_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/63_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[63_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/64_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/64_Regeneracion_urbana_1.jpg"
+	linkURL="images/64_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/64_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[64_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/65_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/65_Regeneracion_urbana_1.jpg"
+	linkURL="images/65_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/65_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[65_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/66_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/66_Regeneracion_urbana_1.jpg"
+	linkURL="images/66_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/66_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[66_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/67_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/67_Regeneracion_urbana_1.jpg"
+	linkURL="images/67_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/67_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[67_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/68_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/68_Regeneracion_urbana_1.jpg"
+	linkURL="images/68_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/68_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[68_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/69_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/69_Regeneracion_urbana_1.jpg"
+	linkURL="images/69_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/69_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[69_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/70_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/70_Regeneracion_urbana_1.jpg"
+	linkURL="images/70_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/70_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[70_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/71_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/71_Regeneracion_urbana_1.jpg"
+	linkURL="images/71_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/71_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[71_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/72_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/72_Regeneracion_urbana_1.jpg"
+	linkURL="images/72_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/72_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[72_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/73_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/73_Regeneracion_urbana_1.jpg"
+	linkURL="images/73_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/73_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[73_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/74_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/74_Regeneracion_urbana_1.jpg"
+	linkURL="images/74_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/74_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[74_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/75_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/75_Regeneracion_urbana_1.jpg"
+	linkURL="images/75_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/75_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[75_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/76_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/76_Regeneracion_urbana_1.jpg"
+	linkURL="images/76_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/76_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[76_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/77_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/77_Regeneracion_urbana_1.jpg"
+	linkURL="images/77_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/77_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[77_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/78_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/78_Regeneracion_urbana_1.jpg"
+	linkURL="images/78_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/78_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[78_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/79_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/79_Regeneracion_urbana_1.jpg"
+	linkURL="images/79_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/79_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[79_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/80_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/80_Regeneracion_urbana_1.jpg"
+	linkURL="images/80_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/80_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[80_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/81_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/81_Regeneracion_urbana_1.jpg"
+	linkURL="images/81_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/81_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[81_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/82_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/82_Regeneracion_urbana_1.jpg"
+	linkURL="images/82_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/82_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[82_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/83_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/83_Regeneracion_urbana_1.jpg"
+	linkURL="images/83_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/83_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[83_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/84_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/84_Regeneracion_urbana_1.jpg"
+	linkURL="images/84_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/84_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[84_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/85_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/85_Regeneracion_urbana_1.jpg"
+	linkURL="images/85_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/85_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[85_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/86_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/86_Regeneracion_urbana_1.jpg"
+	linkURL="images/86_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/86_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[86_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/87_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/87_Regeneracion_urbana_1.jpg"
+	linkURL="images/87_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/87_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[87_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/88_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/88_Regeneracion_urbana_1.jpg"
+	linkURL="images/88_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/88_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[88_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/89_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/89_Regeneracion_urbana_1.jpg"
+	linkURL="images/89_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/89_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[89_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/90_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/90_Regeneracion_urbana_1.jpg"
+	linkURL="images/90_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/90_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[90_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/91_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/91_Regeneracion_urbana_1.jpg"
+	linkURL="images/91_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/91_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[91_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/92_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/92_Regeneracion_urbana_1.jpg"
+	linkURL="images/92_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/92_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[92_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/93_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/93_Regeneracion_urbana_1.jpg"
+	linkURL="images/93_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/93_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[93_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/94_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/94_Regeneracion_urbana_1.jpg"
+	linkURL="images/94_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/94_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[94_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/95_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/95_Regeneracion_urbana_1.jpg"
+	linkURL="images/95_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/95_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[95_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/96_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/96_Regeneracion_urbana_1.jpg"
+	linkURL="images/96_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/96_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[96_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/97_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/97_Regeneracion_urbana_1.jpg"
+	linkURL="images/97_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/97_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[97_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/98_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/98_Regeneracion_urbana_1.jpg"
+	linkURL="images/98_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/98_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[98_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/99_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/99_Regeneracion_urbana_1.jpg"
+	linkURL="images/99_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/99_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[99_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/100_Regeneracion_urbana_1.jpg"
+	thumbURL="thumbs/100_Regeneracion_urbana_1.jpg"
+	linkURL="images/100_Regeneracion_urbana_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/76887/Originales/100_Regeneracion_urbana_1.jpg">
+    <title><![CDATA[100_Regeneracion_urbana_1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
