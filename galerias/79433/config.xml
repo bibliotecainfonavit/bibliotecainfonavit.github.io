@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+        backgroundColor="rgba(255, 255, 255, 1)"
+        useFullscreenExpand="true"
+        enableLooping="true"
+        stagePadding="50"
+        galleryTitlePosition="TOP"
+        galleryTitleHAlign="CENTER"
+        rememberPassword="false"
+        captionBackColor="rgba(204,204,204,0.3)"
+        buttonBarBackColor="rgba(204,204,204,0.5)"
+        imageFrameColor="rgba(255,255,255,1)"
+        thumbDotColor="rgba(255,255,255,0.4)"
+        expandedBackgroundColor="rgba(255, 255, 255, 1)"
+        imagePreloading="NEXT"
+        imageShadowBlur="0"
+        thumbSelectedFrameWidth="8"
+        thumbCornerRadius="5"
+        buttonBarPosition="OVERLAY"
+        showAutoPlayButton="true"
+        showDownloadButton="true"
+        showEmailButton="true"
+        emailAddress=""
+        emailSubject=""
+        buttonBarIconSize="15"
+        captionPosition="BELOW_IMAGE"
+        maxCaptionHeight="40"
+        enableAutoPlay="true"
+        autoPlayOnLoad="true"
+        displayTime="3"
+        goNextOnAutoPlay="true"
+        shareFacebook="false"
+        shareTwitter="false"
+        shareGPlus="false"
+        sharePinterest="false"
+        watermarkHAlign="LEFT"
+        watermarkVAlign="TOP"
+        watermarkPath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerí??as/firma.png"
+        useWatermark="true"
+        backgroundUrl="https://infonavit.janium.net/janium/Imagenes2022/header.jpg"
+        backgroundScale="NONE"
+        buttonBarHAlign="CENTER"
+        addSEOContent="false"
+        showExpandButton="false"
+        showThumbsButton="false"
+        showSmallThumbsButton="true"
+        showSmallPagingText="true"
+        showOpenButton="false"
+
+>
+  <image imageURL="images/Aplicacion_de_vacuna_H1N1_79192.jpg"
+	thumbURL="thumbs/Aplicacion_de_vacuna_H1N1_79192.jpg"
+	linkURL="images/Aplicacion_de_vacuna_H1N1_79192.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Aplicacion_de_vacuna_H1N1_79192.jpg">
+    <title><![CDATA[Aplicacion_de_vacuna_H1N1_79192]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Aplicacion_de_vacuna_H1N1_1_79201.jpg"
+	thumbURL="thumbs/Aplicacion_de_vacuna_H1N1_1_79201.jpg"
+	linkURL="images/Aplicacion_de_vacuna_H1N1_1_79201.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Aplicacion_de_vacuna_H1N1_1_79201.jpg">
+    <title><![CDATA[Aplicacion_de_vacuna_H1N1_1_79201]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Aplicacion_de_vacuna_H1N1_2_79203.jpg"
+	thumbURL="thumbs/Aplicacion_de_vacuna_H1N1_2_79203.jpg"
+	linkURL="images/Aplicacion_de_vacuna_H1N1_2_79203.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Aplicacion_de_vacuna_H1N1_2_79203.jpg">
+    <title><![CDATA[Aplicacion_de_vacuna_H1N1_2_79203]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Aplicacion_de_vacuna_H1N1_3_79204.jpg"
+	thumbURL="thumbs/Aplicacion_de_vacuna_H1N1_3_79204.jpg"
+	linkURL="images/Aplicacion_de_vacuna_H1N1_3_79204.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Aplicacion_de_vacuna_H1N1_3_79204.jpg">
+    <title><![CDATA[Aplicacion_de_vacuna_H1N1_3_79204]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Aplicacion_de_vacuna_H1N1_4_79206.jpg"
+	thumbURL="thumbs/Aplicacion_de_vacuna_H1N1_4_79206.jpg"
+	linkURL="images/Aplicacion_de_vacuna_H1N1_4_79206.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Aplicacion_de_vacuna_H1N1_4_79206.jpg">
+    <title><![CDATA[Aplicacion_de_vacuna_H1N1_4_79206]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Aplicacion_de_vacuna_H1N1_5_79207.jpg"
+	thumbURL="thumbs/Aplicacion_de_vacuna_H1N1_5_79207.jpg"
+	linkURL="images/Aplicacion_de_vacuna_H1N1_5_79207.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Aplicacion_de_vacuna_H1N1_5_79207.jpg">
+    <title><![CDATA[Aplicacion_de_vacuna_H1N1_5_79207]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Aplicacion_de_vacuna_H1N1_6_79208.jpg"
+	thumbURL="thumbs/Aplicacion_de_vacuna_H1N1_6_79208.jpg"
+	linkURL="images/Aplicacion_de_vacuna_H1N1_6_79208.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Aplicacion_de_vacuna_H1N1_6_79208.jpg">
+    <title><![CDATA[Aplicacion_de_vacuna_H1N1_6_79208]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Aplicacion_de_vacuna_H1N1_7_79209.jpg"
+	thumbURL="thumbs/Aplicacion_de_vacuna_H1N1_7_79209.jpg"
+	linkURL="images/Aplicacion_de_vacuna_H1N1_7_79209.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Aplicacion_de_vacuna_H1N1_7_79209.jpg">
+    <title><![CDATA[Aplicacion_de_vacuna_H1N1_7_79209]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Aplicacion_de_vacuna_H1N1_8_79210.jpg"
+	thumbURL="thumbs/Aplicacion_de_vacuna_H1N1_8_79210.jpg"
+	linkURL="images/Aplicacion_de_vacuna_H1N1_8_79210.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Aplicacion_de_vacuna_H1N1_8_79210.jpg">
+    <title><![CDATA[Aplicacion_de_vacuna_H1N1_8_79210]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI_:_Oficinas_Centrales_1_77281.jpg"
+	thumbURL="thumbs/Colaboradores_CESI_:_Oficinas_Centrales_1_77281.jpg"
+	linkURL="images/Colaboradores_CESI_:_Oficinas_Centrales_1_77281.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Colaboradores_CESI_:_Oficinas_Centrales_1_77281.jpg">
+    <title><![CDATA[Colaboradores_CESI_:_Oficinas_Centrales_1_77281]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI_:_Oficinas_Centrales_2_77282.jpg"
+	thumbURL="thumbs/Colaboradores_CESI_:_Oficinas_Centrales_2_77282.jpg"
+	linkURL="images/Colaboradores_CESI_:_Oficinas_Centrales_2_77282.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Colaboradores_CESI_:_Oficinas_Centrales_2_77282.jpg">
+    <title><![CDATA[Colaboradores_CESI_:_Oficinas_Centrales_2_77282]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI_:_Oficinas_Centrales_3_77283.jpg"
+	thumbURL="thumbs/Colaboradores_CESI_:_Oficinas_Centrales_3_77283.jpg"
+	linkURL="images/Colaboradores_CESI_:_Oficinas_Centrales_3_77283.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Colaboradores_CESI_:_Oficinas_Centrales_3_77283.jpg">
+    <title><![CDATA[Colaboradores_CESI_:_Oficinas_Centrales_3_77283]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI_:_Oficinas_Centrales_4_77284.jpg"
+	thumbURL="thumbs/Colaboradores_CESI_:_Oficinas_Centrales_4_77284.jpg"
+	linkURL="images/Colaboradores_CESI_:_Oficinas_Centrales_4_77284.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Colaboradores_CESI_:_Oficinas_Centrales_4_77284.jpg">
+    <title><![CDATA[Colaboradores_CESI_:_Oficinas_Centrales_4_77284]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI_:_Oficinas_Centrales_5_77285.jpg"
+	thumbURL="thumbs/Colaboradores_CESI_:_Oficinas_Centrales_5_77285.jpg"
+	linkURL="images/Colaboradores_CESI_:_Oficinas_Centrales_5_77285.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Colaboradores_CESI_:_Oficinas_Centrales_5_77285.jpg">
+    <title><![CDATA[Colaboradores_CESI_:_Oficinas_Centrales_5_77285]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI_:_Oficinas_Centrales_6_77286.jpg"
+	thumbURL="thumbs/Colaboradores_CESI_:_Oficinas_Centrales_6_77286.jpg"
+	linkURL="images/Colaboradores_CESI_:_Oficinas_Centrales_6_77286.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Colaboradores_CESI_:_Oficinas_Centrales_6_77286.jpg">
+    <title><![CDATA[Colaboradores_CESI_:_Oficinas_Centrales_6_77286]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI_:_Oficinas_Centrales_7_77287.jpg"
+	thumbURL="thumbs/Colaboradores_CESI_:_Oficinas_Centrales_7_77287.jpg"
+	linkURL="images/Colaboradores_CESI_:_Oficinas_Centrales_7_77287.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Colaboradores_CESI_:_Oficinas_Centrales_7_77287.jpg">
+    <title><![CDATA[Colaboradores_CESI_:_Oficinas_Centrales_7_77287]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI_:_Oficinas_Centrales_8_77288.jpg"
+	thumbURL="thumbs/Colaboradores_CESI_:_Oficinas_Centrales_8_77288.jpg"
+	linkURL="images/Colaboradores_CESI_:_Oficinas_Centrales_8_77288.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Colaboradores_CESI_:_Oficinas_Centrales_8_77288.jpg">
+    <title><![CDATA[Colaboradores_CESI_:_Oficinas_Centrales_8_77288]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI_:_Oficinas_Centrales_9_77289.jpg"
+	thumbURL="thumbs/Colaboradores_CESI_:_Oficinas_Centrales_9_77289.jpg"
+	linkURL="images/Colaboradores_CESI_:_Oficinas_Centrales_9_77289.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Colaboradores_CESI_:_Oficinas_Centrales_9_77289.jpg">
+    <title><![CDATA[Colaboradores_CESI_:_Oficinas_Centrales_9_77289]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI_:_Oficinas_Centrales_10_77290.jpg"
+	thumbURL="thumbs/Colaboradores_CESI_:_Oficinas_Centrales_10_77290.jpg"
+	linkURL="images/Colaboradores_CESI_:_Oficinas_Centrales_10_77290.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79433/Originales/Colaboradores_CESI_:_Oficinas_Centrales_10_77290.jpg">
+    <title><![CDATA[Colaboradores_CESI_:_Oficinas_Centrales_10_77290]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
