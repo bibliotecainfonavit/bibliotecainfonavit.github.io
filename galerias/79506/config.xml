@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+        backgroundColor="rgba(255, 255, 255, 1)"
+        useFullscreenExpand="true"
+        enableLooping="true"
+        stagePadding="50"
+        galleryTitlePosition="TOP"
+        galleryTitleHAlign="CENTER"
+        rememberPassword="false"
+        captionBackColor="rgba(204,204,204,0.3)"
+        buttonBarBackColor="rgba(204,204,204,0.5)"
+        imageFrameColor="rgba(255,255,255,1)"
+        thumbDotColor="rgba(255,255,255,0.4)"
+        expandedBackgroundColor="rgba(255, 255, 255, 1)"
+        imagePreloading="NEXT"
+        imageShadowBlur="0"
+        thumbSelectedFrameWidth="8"
+        thumbCornerRadius="5"
+        buttonBarPosition="OVERLAY"
+        showAutoPlayButton="true"
+        showDownloadButton="true"
+        showEmailButton="true"
+        emailAddress=""
+        emailSubject=""
+        buttonBarIconSize="15"
+        captionPosition="BELOW_IMAGE"
+        maxCaptionHeight="40"
+        enableAutoPlay="true"
+        autoPlayOnLoad="true"
+        displayTime="3"
+        goNextOnAutoPlay="true"
+        shareFacebook="false"
+        shareTwitter="false"
+        shareGPlus="false"
+        sharePinterest="false"
+        watermarkHAlign="LEFT"
+        watermarkVAlign="TOP"
+        watermarkPath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerí?as/Firma inst-Infonavit 2019-Color negro 25%.png"
+        useWatermark="true"
+        backgroundUrl="https://infonavit.janium.net/janium/Imagenes2022/header.jpg"
+        backgroundScale="NONE"
+        buttonBarHAlign="CENTER"
+        addSEOContent="false"
+        showExpandButton="false"
+        showThumbsButton="false"
+        showSmallThumbsButton="true"
+        showSmallPagingText="true"
+        showOpenButton="false"
+
+>
+  <image imageURL="images/Cesi_Chiapas_75969.jpg"
+	thumbURL="thumbs/Cesi_Chiapas_75969.jpg"
+	linkURL="images/Cesi_Chiapas_75969.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79506/Originales/Cesi_Chiapas_75969.jpg">
+    <title><![CDATA[Cesi_Chiapas_75969]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Chiapas_75983.jpg"
+	thumbURL="thumbs/Cesi_Chiapas_75983.jpg"
+	linkURL="images/Cesi_Chiapas_75983.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79506/Originales/Cesi_Chiapas_75983.jpg">
+    <title><![CDATA[Cesi_Chiapas_75983]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Chiapas_75984.jpg"
+	thumbURL="thumbs/Cesi_Chiapas_75984.jpg"
+	linkURL="images/Cesi_Chiapas_75984.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79506/Originales/Cesi_Chiapas_75984.jpg">
+    <title><![CDATA[Cesi_Chiapas_75984]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Chiapas_75985.jpg"
+	thumbURL="thumbs/Cesi_Chiapas_75985.jpg"
+	linkURL="images/Cesi_Chiapas_75985.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79506/Originales/Cesi_Chiapas_75985.jpg">
+    <title><![CDATA[Cesi_Chiapas_75985]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Chiapas_75986.jpg"
+	thumbURL="thumbs/Cesi_Chiapas_75986.jpg"
+	linkURL="images/Cesi_Chiapas_75986.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79506/Originales/Cesi_Chiapas_75986.jpg">
+    <title><![CDATA[Cesi_Chiapas_75986]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Chiapas_75987.jpg"
+	thumbURL="thumbs/Cesi_Chiapas_75987.jpg"
+	linkURL="images/Cesi_Chiapas_75987.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79506/Originales/Cesi_Chiapas_75987.jpg">
+    <title><![CDATA[Cesi_Chiapas_75987]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Chiapas_75988.jpg"
+	thumbURL="thumbs/Cesi_Chiapas_75988.jpg"
+	linkURL="images/Cesi_Chiapas_75988.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79506/Originales/Cesi_Chiapas_75988.jpg">
+    <title><![CDATA[Cesi_Chiapas_75988]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Chiapas_75989.jpg"
+	thumbURL="thumbs/Cesi_Chiapas_75989.jpg"
+	linkURL="images/Cesi_Chiapas_75989.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79506/Originales/Cesi_Chiapas_75989.jpg">
+    <title><![CDATA[Cesi_Chiapas_75989]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Chiapas_75990.jpg"
+	thumbURL="thumbs/Cesi_Chiapas_75990.jpg"
+	linkURL="images/Cesi_Chiapas_75990.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79506/Originales/Cesi_Chiapas_75990.jpg">
+    <title><![CDATA[Cesi_Chiapas_75990]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Chiapas_75991.jpg"
+	thumbURL="thumbs/Cesi_Chiapas_75991.jpg"
+	linkURL="images/Cesi_Chiapas_75991.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79506/Originales/Cesi_Chiapas_75991.jpg">
+    <title><![CDATA[Cesi_Chiapas_75991]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Chiapas_75992.jpg"
+	thumbURL="thumbs/Cesi_Chiapas_75992.jpg"
+	linkURL="images/Cesi_Chiapas_75992.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79506/Originales/Cesi_Chiapas_75992.jpg">
+    <title><![CDATA[Cesi_Chiapas_75992]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cesi_Chiapas_75997.jpg"
+	thumbURL="thumbs/Cesi_Chiapas_75997.jpg"
+	linkURL="images/Cesi_Chiapas_75997.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerias/79506/Originales/Cesi_Chiapas_75997.jpg">
+    <title><![CDATA[Cesi_Chiapas_75997]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
