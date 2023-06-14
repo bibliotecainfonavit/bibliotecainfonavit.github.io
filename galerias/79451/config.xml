@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+        backgroundColor="rgba(255, 255, 255, 1)"
+        useFullscreenExpand="true"
+        enableLooping="true"
+        stagePadding="50"
+        galleryTitlePosition="TOP"
+        galleryTitleHAlign="CENTER"
+        rememberPassword="false"
+        captionBackColor="rgba(204,204,204,0.3)"
+        buttonBarBackColor="rgba(204,204,204,0.5)"
+        imageFrameColor="rgba(255,255,255,1)"
+        thumbDotColor="rgba(255,255,255,0.4)"
+        expandedBackgroundColor="rgba(255, 255, 255, 1)"
+        imagePreloading="NEXT"
+        imageShadowBlur="0"
+        thumbSelectedFrameWidth="8"
+        thumbCornerRadius="5"
+        buttonBarPosition="OVERLAY"
+        showAutoPlayButton="true"
+        showDownloadButton="true"
+        showEmailButton="true"
+        emailAddress=""
+        emailSubject=""
+        buttonBarIconSize="15"
+        captionPosition="BELOW_IMAGE"
+        maxCaptionHeight="40"
+        enableAutoPlay="true"
+        autoPlayOnLoad="true"
+        displayTime="3"
+        goNextOnAutoPlay="true"
+        shareFacebook="false"
+        shareTwitter="false"
+        shareGPlus="false"
+        sharePinterest="false"
+        watermarkHAlign="LEFT"
+        watermarkVAlign="TOP"
+        watermarkPath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerí??as/firma.png"
+        useWatermark="true"
+        backgroundUrl="https://infonavit.janium.net/janium/Imagenes2022/header.jpg"
+        backgroundScale="NONE"
+        buttonBarHAlign="CENTER"
+        addSEOContent="false"
+        showExpandButton="false"
+        showThumbsButton="false"
+        showSmallThumbsButton="true"
+        showSmallPagingText="true"
+        showOpenButton="false"
+
+>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_79367.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_79367.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_79367.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_79367.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_79367]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_1_79368.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_1_79368.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_1_79368.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_1_79368.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_1_79368]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_2_79369.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_2_79369.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_2_79369.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_2_79369.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_2_79369]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_3_79370.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_3_79370.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_3_79370.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_3_79370.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_3_79370]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_4_79371.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_4_79371.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_4_79371.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_4_79371.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_4_79371]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_5_79372.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_5_79372.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_5_79372.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_5_79372.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_5_79372]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_6_79373.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_6_79373.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_6_79373.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_6_79373.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_6_79373]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_7_79374.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_7_79374.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_7_79374.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_7_79374.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_7_79374]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_8_79375.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_8_79375.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_8_79375.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_8_79375.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_8_79375]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_9_79376.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_9_79376.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_9_79376.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_9_79376.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_9_79376]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_10_79377.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_10_79377.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_10_79377.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_10_79377.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_10_79377]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_11_79378.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_11_79378.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_11_79378.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_11_79378.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_11_79378]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_12_79379.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_12_79379.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_12_79379.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_12_79379.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_12_79379]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_13_79380.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_13_79380.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_13_79380.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_13_79380.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_13_79380]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_14_79381.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_14_79381.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_14_79381.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_14_79381.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_14_79381]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_15_79382.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_15_79382.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_15_79382.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_15_79382.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_15_79382]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_16_79383.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_16_79383.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_16_79383.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_16_79383.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_16_79383]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_17_79384.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_17_79384.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_17_79384.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_17_79384.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_17_79384]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_18_79385.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_18_79385.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_18_79385.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_18_79385.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_18_79385]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_20_79387.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_20_79387.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_20_79387.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_20_79387.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_20_79387]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_21_79388.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_21_79388.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_21_79388.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_21_79388.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_21_79388]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_22_79389.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_22_79389.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_22_79389.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_22_79389.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_22_79389]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_23_79390.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_23_79390.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_23_79390.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_23_79390.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_23_79390]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_24_79391.jpg"
+	thumbURL="thumbs/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_24_79391.jpg"
+	linkURL="images/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_24_79391.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79451/Originales/Mesas_de_dialogo__Vivienda_adecuada_Infonavit_24_79391.jpg">
+    <title><![CDATA[Mesas_de_dialogo__Vivienda_adecuada_Infonavit_24_79391]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
