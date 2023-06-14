@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+        backgroundColor="rgba(255, 255, 255, 1)"
+        useFullscreenExpand="true"
+        enableLooping="true"
+        stagePadding="50"
+        galleryTitlePosition="TOP"
+        galleryTitleHAlign="CENTER"
+        rememberPassword="false"
+        captionBackColor="rgba(204,204,204,0.3)"
+        buttonBarBackColor="rgba(204,204,204,0.5)"
+        imageFrameColor="rgba(255,255,255,1)"
+        thumbDotColor="rgba(255,255,255,0.4)"
+        expandedBackgroundColor="rgba(255, 255, 255, 1)"
+        imagePreloading="NEXT"
+        imageShadowBlur="0"
+        thumbSelectedFrameWidth="8"
+        thumbCornerRadius="5"
+        buttonBarPosition="OVERLAY"
+        showAutoPlayButton="true"
+        showDownloadButton="true"
+        showEmailButton="true"
+        emailAddress=""
+        emailSubject=""
+        buttonBarIconSize="15"
+        captionPosition="BELOW_IMAGE"
+        maxCaptionHeight="40"
+        enableAutoPlay="true"
+        autoPlayOnLoad="true"
+        displayTime="3"
+        goNextOnAutoPlay="true"
+        shareFacebook="false"
+        shareTwitter="false"
+        shareGPlus="false"
+        sharePinterest="false"
+        watermarkHAlign="LEFT"
+        watermarkVAlign="TOP"
+        watermarkPath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerí??as/Firma inst-Infonavit 2019-Color negro 25%.png"
+        useWatermark="true"
+        backgroundUrl="https://infonavit.janium.net/janium/Imagenes2022/header.jpg"
+        backgroundScale="NONE"
+        buttonBarHAlign="CENTER"
+        addSEOContent="false"
+        showExpandButton="false"
+        showThumbsButton="false"
+        showSmallThumbsButton="true"
+        showSmallPagingText="true"
+        showOpenButton="false"
+
+>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_1_79265.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_1_79265.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_1_79265.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_1_79265.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_1_79265]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_2_79267.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_2_79267.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_2_79267.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_2_79267.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_2_79267]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_3_79268.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_3_79268.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_3_79268.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_3_79268.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_3_79268]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_4_79270.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_4_79270.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_4_79270.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_4_79270.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_4_79270]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_5_79271.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_5_79271.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_5_79271.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_5_79271.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_5_79271]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_6_79273.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_6_79273.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_6_79273.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_6_79273.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_6_79273]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_7_79274.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_7_79274.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_7_79274.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_7_79274.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_7_79274]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_8_79276.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_8_79276.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_8_79276.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_8_79276.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_8_79276]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_9_79277.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_9_79277.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_9_79277.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_9_79277.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_9_79277]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_10_79278.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_10_79278.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_10_79278.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_10_79278.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_10_79278]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_11_79280.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_11_79280.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_11_79280.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_11_79280.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_11_79280]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_12_79281.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_12_79281.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_12_79281.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_12_79281.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_12_79281]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_13_79283.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_13_79283.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_13_79283.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_13_79283.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_13_79283]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_14_79284.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_14_79284.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_14_79284.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_14_79284.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_14_79284]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_15_79285.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_15_79285.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_15_79285.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_15_79285.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_15_79285]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_16_79316.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_16_79316.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_16_79316.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_16_79316.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_16_79316]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_17_79318.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_17_79318.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_17_79318.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_17_79318.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_17_79318]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_18_79319.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_18_79319.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_18_79319.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_18_79319.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_18_79319]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_19_79321.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_19_79321.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_19_79321.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_19_79321.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_19_79321]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Oaxaca_20_79322.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Oaxaca_20_79322.jpg"
+	linkURL="images/Colaboradores_CESI__Oaxaca_20_79322.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79441/Colaboradores_CESI__Oaxaca_20_79322.jpg">
+    <title><![CDATA[Colaboradores_CESI__Oaxaca_20_79322]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
