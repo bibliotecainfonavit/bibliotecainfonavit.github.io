@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+        backgroundColor="rgba(255, 255, 255, 1)"
+        useFullscreenExpand="true"
+        enableLooping="true"
+        stagePadding="50"
+        galleryTitlePosition="TOP"
+        galleryTitleHAlign="CENTER"
+        rememberPassword="false"
+        captionBackColor="rgba(204,204,204,0.3)"
+        buttonBarBackColor="rgba(204,204,204,0.5)"
+        imageFrameColor="rgba(255,255,255,1)"
+        thumbDotColor="rgba(255,255,255,0.4)"
+        expandedBackgroundColor="rgba(255, 255, 255, 1)"
+        imagePreloading="NEXT"
+        imageShadowBlur="0"
+        thumbSelectedFrameWidth="8"
+        thumbCornerRadius="5"
+        buttonBarPosition="OVERLAY"
+        showAutoPlayButton="true"
+        showDownloadButton="true"
+        showEmailButton="true"
+        emailAddress=""
+        emailSubject=""
+        buttonBarIconSize="15"
+        captionPosition="BELOW_IMAGE"
+        maxCaptionHeight="40"
+        enableAutoPlay="true"
+        autoPlayOnLoad="true"
+        displayTime="3"
+        goNextOnAutoPlay="true"
+        shareFacebook="false"
+        shareTwitter="false"
+        shareGPlus="false"
+        sharePinterest="false"
+        watermarkHAlign="LEFT"
+        watermarkVAlign="TOP"
+        watermarkPath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerí??as/Firma inst-Infonavit 2019-Color negro 25%.png"
+        useWatermark="true"
+        backgroundUrl="https://infonavit.janium.net/janium/Imagenes2022/header.jpg"
+        backgroundScale="NONE"
+        buttonBarHAlign="CENTER"
+        addSEOContent="false"
+        showExpandButton="false"
+        showThumbsButton="false"
+        showSmallThumbsButton="true"
+        showSmallPagingText="true"
+        showOpenButton="false"
+
+>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_1_77325.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_1_77325.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_1_77325.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_1_77325.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_1_77325]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_2_77326.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_2_77326.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_2_77326.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_2_77326.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_2_77326]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_3_77327.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_3_77327.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_3_77327.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_3_77327.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_3_77327]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_4_77328.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_4_77328.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_4_77328.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_4_77328.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_4_77328]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_7_77331.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_7_77331.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_7_77331.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_7_77331.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_7_77331]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_8_77332.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_8_77332.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_8_77332.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_8_77332.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_8_77332]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_9_77333.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_9_77333.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_9_77333.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_9_77333.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_9_77333]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_10_77334.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_10_77334.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_10_77334.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_10_77334.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_10_77334]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_11_77335.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_11_77335.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_11_77335.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_11_77335.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_11_77335]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_12_77336.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_12_77336.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_12_77336.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_12_77336.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_12_77336]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_13_77337.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_13_77337.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_13_77337.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_13_77337.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_13_77337]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_14_77338.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_14_77338.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_14_77338.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_14_77338.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_14_77338]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_15_77339.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_15_77339.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_15_77339.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_15_77339.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_15_77339]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_16_77340.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_16_77340.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_16_77340.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_16_77340.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_16_77340]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_17_77341.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_17_77341.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_17_77341.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_17_77341.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_17_77341]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_18_77342.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_18_77342.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_18_77342.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_18_77342.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_18_77342]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_19_77343.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_19_77343.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_19_77343.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_19_77343.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_19_77343]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_33_79341.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_33_79341.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_33_79341.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_33_79341.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_33_79341]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Colaboradores_CESI__Delegacion_Queretaro_34_79342.jpg"
+	thumbURL="thumbs/Colaboradores_CESI__Delegacion_Queretaro_34_79342.jpg"
+	linkURL="images/Colaboradores_CESI__Delegacion_Queretaro_34_79342.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79442/Originales/Colaboradores_CESI__Delegacion_Queretaro_34_79342.jpg">
+    <title><![CDATA[Colaboradores_CESI__Delegacion_Queretaro_34_79342]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
