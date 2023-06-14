@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+        backgroundColor="rgba(255, 255, 255, 1)"
+        useFullscreenExpand="true"
+        enableLooping="true"
+        stagePadding="50"
+        galleryTitlePosition="TOP"
+        galleryTitleHAlign="CENTER"
+        rememberPassword="false"
+        captionBackColor="rgba(204,204,204,0.3)"
+        buttonBarBackColor="rgba(204,204,204,0.5)"
+        imageFrameColor="rgba(255,255,255,1)"
+        thumbDotColor="rgba(255,255,255,0.4)"
+        expandedBackgroundColor="rgba(255, 255, 255, 1)"
+        imagePreloading="NEXT"
+        imageShadowBlur="0"
+        thumbSelectedFrameWidth="8"
+        thumbCornerRadius="5"
+        buttonBarPosition="OVERLAY"
+        showAutoPlayButton="true"
+        showDownloadButton="true"
+        showEmailButton="true"
+        emailAddress=""
+        emailSubject=""
+        buttonBarIconSize="15"
+        captionPosition="BELOW_IMAGE"
+        maxCaptionHeight="40"
+        enableAutoPlay="true"
+        autoPlayOnLoad="true"
+        displayTime="3"
+        goNextOnAutoPlay="true"
+        shareFacebook="false"
+        shareTwitter="false"
+        shareGPlus="false"
+        sharePinterest="false"
+        watermarkHAlign="LEFT"
+        watermarkVAlign="TOP"
+        watermarkPath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerí??as/firma.png"
+        useWatermark="true"
+        backgroundUrl="https://infonavit.janium.net/janium/Imagenes2022/header.jpg"
+        backgroundScale="NONE"
+        buttonBarHAlign="CENTER"
+        addSEOContent="false"
+        showExpandButton="false"
+        showThumbsButton="false"
+        showSmallThumbsButton="true"
+        showSmallPagingText="true"
+        showOpenButton="false"
+
+>
+  <image imageURL="images/Oficinas_Centrales_Infonavit__Biblioteca_1_77314.jpg"
+	thumbURL="thumbs/Oficinas_Centrales_Infonavit__Biblioteca_1_77314.jpg"
+	linkURL="images/Oficinas_Centrales_Infonavit__Biblioteca_1_77314.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79452/Originales/Oficinas_Centrales_Infonavit__Biblioteca_1_77314.jpg">
+    <title><![CDATA[Oficinas_Centrales_Infonavit__Biblioteca_1_77314]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Oficinas_Centrales_Infonavit__Biblioteca_2_77315.jpg"
+	thumbURL="thumbs/Oficinas_Centrales_Infonavit__Biblioteca_2_77315.jpg"
+	linkURL="images/Oficinas_Centrales_Infonavit__Biblioteca_2_77315.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79452/Originales/Oficinas_Centrales_Infonavit__Biblioteca_2_77315.jpg">
+    <title><![CDATA[Oficinas_Centrales_Infonavit__Biblioteca_2_77315]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Oficinas_Centrales_Infonavit__Biblioteca_3_77316.jpg"
+	thumbURL="thumbs/Oficinas_Centrales_Infonavit__Biblioteca_3_77316.jpg"
+	linkURL="images/Oficinas_Centrales_Infonavit__Biblioteca_3_77316.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79452/Originales/Oficinas_Centrales_Infonavit__Biblioteca_3_77316.jpg">
+    <title><![CDATA[Oficinas_Centrales_Infonavit__Biblioteca_3_77316]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Oficinas_Centrales_Infonavit__Biblioteca_4_77318.jpg"
+	thumbURL="thumbs/Oficinas_Centrales_Infonavit__Biblioteca_4_77318.jpg"
+	linkURL="images/Oficinas_Centrales_Infonavit__Biblioteca_4_77318.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79452/Originales/Oficinas_Centrales_Infonavit__Biblioteca_4_77318.jpg">
+    <title><![CDATA[Oficinas_Centrales_Infonavit__Biblioteca_4_77318]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Oficinas_Centrales_Infonavit__Biblioteca_5_77319.jpg"
+	thumbURL="thumbs/Oficinas_Centrales_Infonavit__Biblioteca_5_77319.jpg"
+	linkURL="images/Oficinas_Centrales_Infonavit__Biblioteca_5_77319.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerías/79452/Originales/Oficinas_Centrales_Infonavit__Biblioteca_5_77319.jpg">
+    <title><![CDATA[Oficinas_Centrales_Infonavit__Biblioteca_5_77319]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
