@@ -245,3 +245,41 @@ font-family:Montserrat,serif;
     margin:0 auto;}
 }
 
+
+ .nav__container__list--subMenu {
+    display: none;
+    position: absolute;
+    padding: 10px;
+    left: auto;
+    right: -80%;
+    top: 0;
+    background: #222;
+    color: #fff;
+    border-radius: 0 0 5px 5px;
+    font-size: .85rem;
+    z-index: 100;
+  }
+
+  .nav__container__list--subMenu li {
+    display: block;
+  }
+
+  .nav__container__list--subMenu li a {
+    color: #fff;
+  }
+
+  .nav__container__list--subMenuParent > a::after {
+    content: " ▸";
+  }
+
+  .nav__container__list--subMenuParent > a.open::after {
+    content: " ▾";
+  }
+
+  .nav__container__list li:hover .nav__container__list--subMenu {
+    display: none;
+  }
+
+  .nav__container__list li:hover .nav__container__list--subMenu.open {
+    display: block;
+  }
