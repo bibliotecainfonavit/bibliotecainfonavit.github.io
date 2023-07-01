@@ -5,6 +5,12 @@ nav.handleDropDown = () => {
     e.stopPropagation();
     $(this).next().toggle();
     $('.nav__container__list--dropDown').not($(this).next()).hide();
+
+    // Agrega el siguiente código para cerrar el submenú al hacer clic en un elemento del submenú
+    $('.nav__container__list--dropDown li a').on('click', function (e) {
+      e.stopPropagation();
+      $('.nav__container__list--dropDown').hide();
+    });
   });
 };
 
@@ -13,7 +19,6 @@ nav.handleClickOffnav = () => {
     $('.nav__container__list--dropDown').hide();
   });
 };
-
 
 nav.handleHamburgerToggle = () => {
   $('nav ul').hide();
@@ -39,7 +44,7 @@ nav.init = () => {
   nav.handleHamburgerToggle();
 };
 
-//document ready
+// Document ready
 $(function () {
   nav.init();
 });
