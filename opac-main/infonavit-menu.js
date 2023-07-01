@@ -14,6 +14,7 @@ nav.handleClickOffnav = () => {
   });
 };
 
+
 nav.handleHamburgerToggle = () => {
   $('nav ul').hide();
   $('#hamburgerToggle').on('click', function () {
@@ -38,20 +39,9 @@ nav.init = () => {
   nav.handleHamburgerToggle();
 };
 
-// Document ready
+//document ready
 $(function () {
   nav.init();
 });
 
 $('nav ul').hide();
-
-$(document).ready(function() {
-  $('.nav__container__list--subMenuParent').hover(
-    function() {
-      $(this).find('.nav__container__list--subMenu').slideDown(200);
-    },
-    function() {
-      $(this).find('.nav__container__list--subMenu').slideUp(200);
-    }
-  );
-});
