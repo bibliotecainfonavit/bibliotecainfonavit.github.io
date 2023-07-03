@@ -33,7 +33,7 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-  .site-navigation a {
+  .site-navigation a:not(.icon) {
     display: none;
   }
 
@@ -41,22 +41,28 @@ body {
     float: right;
     display: block;
   }
-}
 
-@media screen and (max-width: 600px) {
-  .site-navigation.responsive {
-    position: relative;
-  }
-
-  .site-navigation.responsive a.icon {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-
-  .site-navigation.responsive a {
-    float: none;
+  .site-navigation.responsive a:not(.icon) {
     display: block;
     text-align: left;
+  }
+
+  .site-navigation.responsive .nav__container__list--dropDown {
+    display: none;
+  }
+
+  .site-navigation.responsive .nav__container__list--subMenu {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 601px) {
+  .site-navigation .nav__container__list--dropDown,
+  .site-navigation .nav__container__list--subMenu {
+    display: none;
+  }
+
+  .site-navigation .nav__container__list--subMenuParent:hover .nav__container__list--subMenu {
+    display: block;
   }
 }
