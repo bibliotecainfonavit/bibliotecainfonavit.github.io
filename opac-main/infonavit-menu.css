@@ -198,7 +198,7 @@ font-family:Montserrat,serif;
     padding: 0.5rem;
     background:#D1001F;
     border-radius: 10px 10px 0 0;
-    width:fit-content;
+    /*width:fit-content;*/
     margin:0;
     /*margin-bottom:-20px;*/
   }
