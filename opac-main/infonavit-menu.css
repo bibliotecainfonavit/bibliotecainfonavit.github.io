@@ -213,7 +213,10 @@ font-family:Montserrat,serif;
     font-weight: 600;
 }
 
-
+ .full-width-span {
+      display: block;
+       width: 238px;
+    }
 
 .nav__container__list--dropDown {
     background-color:#222;
