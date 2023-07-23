@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+  <style>
+  /* Make the image fully responsive */
+  .carousel-inner img {
+    width: 20%;
+    height: 20%;
+    max-width: 140px;
+    object-fit: contain;
+    width: 140px;
+    height: 180px;
+    max-height: 180px;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px -1px, rgba(0, 0, 0, 0.14) 0px 4px 5px 0px, rgba(0, 0, 0, 0.12) 0px 1px 10px 0px;
+    border: 1px solid #aaa;
+  }
+  .carousel{position: relative;
+    width: 900px;
+    margin: 0 auto;}
+#titulo {position: relative;width: 900px;margin: 0 auto;margin-bottom:24px}
+#titulo h3{font-size:1.5rem;font-family:'Helvetica';}
+#titulolibro {font-family:'Helvetica';color:#727272;font-size:1rem;font-weight:bold}
+#autorlibro {font-family:'Helvetica';color:#727272;font-size:.9rem}
+.carousel-control-prev-icon {margin-left:-200px}
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23dd052b' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath d='M5.25 0l-4 4 4 4 1.5-1.5L4.25 4l2.5-2.5L5.25 0z'/%3e%3c/svg%3e")!important;
+}
+ 
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23dd052b' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath d='M2.75 0l-1.5 1.5L3.75 4l-2.5 2.5L2.75 8l4-4-4-4z'/%3e%3c/svg%3e")!important;
+}
+.carousel-caption {left: 20%;}
+.carousel-indicators {margin-bottom: -30px;}
+.carousel-indicators li {background-color:#dd052b!important}
+  </style>
+</head>
+<body>
+<div id="titulo"><h3>Novedades</h3></div>
+<div id="demo" class="carousel slide" data-ride="carousel">
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+    <li data-target="#demo" data-slide-to="3"></li>
+    <li data-target="#demo" data-slide-to="4"></li>
+    <li data-target="#demo" data-slide-to="5"></li>
+    <li data-target="#demo" data-slide-to="6"></li>
+    <li data-target="#demo" data-slide-to="7"></li>
+    <li data-target="#demo" data-slide-to="8"></li>
+    <li data-target="#demo" data-slide-to="9"></li>
+    <li data-target="#demo" data-slide-to="10"></li>
+    <li data-target="#demo" data-slide-to="11"></li>
+    <li data-target="#demo" data-slide-to="12"></li>
+    <li data-target="#demo" data-slide-to="13"></li>
+    <li data-target="#demo" data-slide-to="14"></li>
+    <li data-target="#demo" data-slide-to="15"></li>
+    <li data-target="#demo" data-slide-to="16"></li>
+    <li data-target="#demo" data-slide-to="17"></li>
+    <li data-target="#demo" data-slide-to="18"></li>
+    <li data-target="#demo" data-slide-to="19"></li>
+  </ul>
+  <div class="carousel-inner">
+    <div class="carousel-item active" id="item1">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=122846"><img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png" alt="Los Angeles" width="140" height="180"><div class="carousel-caption">
+        <h3 id="titulolibro">Mantenimiento y conservación de unidades habitacionales alternativas para una solución financiera Instituto del Fondo Nacional de la Vivienda para los Trabajadores, Asesoría Actuaríal</h3>
+        <p id="autorlibro">Instituto del Fondo Nacional de la Vivienda para los Trabajadores</p></a>
+      </div>   
+    </div></a>
+    <div class="carousel-item" id="item2">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=122847"><img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png" alt="Chicago" width="140" height="180">
+      <div class="carousel-caption">
+        <h3 id="titulolibro">Guía de evolución y origen Infonavit, Subdirección de Administración y Recursos Humanos, Sindicato de Trabajadores del Infonavit</h3>
+        <p id="autorlibro">Instituto del Fondo Nacional de la Vivienda para los Trabajadores <br> Sindicato de Trabajadores del Infonavit</p>
+      </div>   
+    </div></a>
+    <div class="carousel-item" id="item3">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121144"><img src="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-image.pl?thumbnail=1&biblionumber=121144" alt="New York" width="140" height="180">
+      <div class="carousel-caption">
+        <h3 id="titulolibro">Antecedentes históricos política de desarrollo urbano en Chile editores Pilar Giménez C. y Gonzalo Gazitúa Z.</h3>
+        <p id="autorlibro">Gazitúa Z., Gonzalo [editor ]  Giménez C., Pilar [editora ]</p>
+      </div>   
+    </div></a>
+    <div class="carousel-item" id="item4">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121145"><img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png" alt="New York" width="140" height="180">
+        <div class="carousel-caption">
+          <h3 id="titulolibro">Planeación para el desarrollo del territorio perspectiva contemporanea Alberto León Gutiérrez Tamayo, Liliana María Sánchez Mazo</h3>
+          <p id="autorlibro">Gutiérrez Tamayo, Alberto León Sánchez Marzo, Liliana María [coautora ]</p>
+        </div>
+      </div></a>
+      <div class="carousel-item" id="item5">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121146"><img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png" alt="New York" width="140" height="180">
+        <div class="carousel-caption">
+          <h3 id="titulolibro">Estridentópolis urbanización y montaje</h3>
+          <p id="autorlibro">Pappe Willenegger, Silvia <br> Universidad Autónoma Metropolitana Unidad Azcapotzalco</p>
+        </div>  
+      </div></a> 
+      <div class="carousel-item" id="item6">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121147"><img src="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-image.pl?thumbnail=1&biblionumber=121147" alt="New York" width="140" height="180">
+            <div class="carousel-caption">
+              <h3 id="titulolibro">Reforma urbana 100 ideas para las ciudades de México CTS EMBARQ México, Instituto Mexicano para la Competitividad A.C., Centro Mario Molina
+                </h3>
+              <p id="autorlibro">Centro de Transporte Sustentable de México [autor ]  Centro Mario Molina para Estudios Estratégicos sobre Energía y Medio [coautor ]  Instituto Mexicano para la Competitividad</p>
+            </div>
+          </div></a>
+      <div class="carousel-item" id="item7">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121148"><img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png" alt="New York" width="140" height="180">
+            <div class="carousel-caption">
+              <h3 id="titulolibro">Concurso No. 15 Re-Habitar el s. XXI La vivienda social desde el paradigma moderno Arquine moderna, Canadevi, Valle de México</h3>
+              <p id="autorlibro">Arquine [autor ]  CANADEVI</p>
+            </div>
+      </div></a>
+      <div class="carousel-item" id="item8">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121149"><img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png" alt="Chicago" width="140" height="180">
+            <div class="carousel-caption">
+              <h3 id="titulolibro">Perímetros del encuentro: Plazas y calles tacotalpeñas Vicente Guzmán Rios</h3>
+              <p id="autorlibro">Guzmán Ríos, Vicente</p>
+            </div>   
+          </div></a>
+      <div class="carousel-item" id="item9">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121150"><img src="https://images-na.ssl-images-amazon.com/images/P/9587166051.01.TZZZZZZZ.jpg" alt="Chicago" width="140" height="180">
+            <div class="carousel-caption">
+              <h3 id="titulolibro">Mallas urbanas desplazadas Ciudades sostenibles para el siglo XXI Luis Humberto Duque Gómez</h3>
+              <p id="autorlibro">Duque Gómez, Luis Humberto Pontificia Universidad Javierana</p>
+            </div>   
+          </div></a>
+      <div class="carousel-item" id="item10">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121150"><img src="https://images-na.ssl-images-amazon.com/images/P/8496775720.01.TZZZZZZZ.jpg" alt="Chicago" width="140" height="180">
+            <div class="carousel-caption">
+              <h3 id="titulolibro">Arquitectura y cultura contemporánea Juan Calatrava y Antonio Gómez-Blanco, editores</h3>
+              <p id="autorlibro">Gómez-Blanco, Antonio [editores ]  Juan Calatrava [editores ]</p>
+            </div>   
+          </div></a>
+      <div class="carousel-item" id="item11">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121152"><img src="https://images-na.ssl-images-amazon.com/images/P/9707222425.01.TZZZZZZZ.jpg" alt="Chicago" width="140" height="180">
+            <div class="carousel-caption">
+              <h3 id="titulolibro">Topografías transnacionales: Hacia un geografía de la vida transnacional</h3>
+              <p id="autorlibro">Besserer, Federico Universidad Autónoma Metropolitana</p>
+            </div>   
+          </div></a>
+      <div class="carousel-item" id="item12">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121153"><img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png" alt="Chicago" width="140" height="180">
+            <div class="carousel-caption">
+              <h3 id="titulolibro">La plaza mayor, ¿centro de la metrópoli? Etnografía del Zócalo de la Ciudad de México Kathrin Wildner; traducción José Aníbal Campos</h3>
+              <p id="autorlibro">Kathrin, Wildner Campos, José Anibal [traductor ]</p>
+            </div>   
+          </div></a>
+      <div class="carousel-item" id="item13">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121153"><img src="https://images-na.ssl-images-amazon.com/images/P/6074554269.01.TZZZZZZZ.jpg" alt="Chicago" width="140" height="180">
+            <div class="carousel-caption">
+              <h3 id="titulolibro">Las manos indígenas de la raza española: El mestizaje como argumento arquitectónico Johanna Lozoya, Conaculta</h3>
+              <p id="autorlibro">Lozoya, Johanna Consejo Nacional para la Cultura y las Artes</p>
+            </div>   
+          </div></a>
+      <div class="carousel-item" id="item14">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121155"><img src="https://images-na.ssl-images-amazon.com/images/P/8420609609.01.TZZZZZZZ.jpg" alt="Chicago" width="140" height="180">
+            <div class="carousel-caption">
+              <h3 id="titulolibro">Redes de indignación y esperanza Los movimientos sociales en la era de internet Manuel Castells, traducción de María Hernández</h3>
+              <p id="autorlibro">Castells, Manuel Hernández, María [traductora ]</p>
+            </div>   
+          </div></a>
+      <div class="carousel-item" id="item15">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121156"><img src="https://images-na.ssl-images-amazon.com/images/P/987584313X.01.TZZZZZZZ.jpg" alt="Chicago" width="140" height="180">
+            <div class="carousel-caption">
+              <h3 id="titulolibro">Arquitectura y crítica en Latinoamérica</h3>
+              <p id="autorlibro"> Josep María Montaner</p>
+            </div>   
+          </div></a>
+      <div class="carousel-item" id="item16">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121157"><img src="https://images-na.ssl-images-amazon.com/images/P/8497841913.01.TZZZZZZZ.jpg" alt="Chicago" width="140" height="180">
+            <div class="carousel-caption">
+              <h3 id="titulolibro">Ciudad de muros</h3>
+              <p id="autorlibro">Caldeira, Teresa Pires do Rio Solans, Claudia [traductora ]</p>
+            </div>   
+          </div></a>
+      <div class="carousel-item" id="item17">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121158"><img src="https://images-na.ssl-images-amazon.com/images/P/6077515019.01.TZZZZZZZ.jpg" alt="Chicago" width="140" height="180">
+            <div class="carousel-caption">
+              <h3 id="titulolibro">Inquisición y Arquitectura La "evangelización" y el ex-obispado de Oaxaca</h3>
+              <p id="autorlibro">Jiménez Muñoz, Victor González Medina, Rogelio [coautor ]</p>
+            </div>   
+          </div></a>
+      <div class="carousel-item" id="item18">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121159"><img src="https://images-na.ssl-images-amazon.com/images/P/0415366577.01.TZZZZZZZ.jpg" alt="Chicago" width="140" height="180">
+            <div class="carousel-caption">
+              <h3 id="titulolibro">Small cities urban experience beyond the metropolis edited by David Bell and Mark Jayne</h3>
+              <p id="autorlibro">Bell, David [editor ]  Jayne, Mark [editor ]</p>
+            </div>   
+          </div></a>
+      <div class="carousel-item" id="item19">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121160"><img src="https://images-na.ssl-images-amazon.com/images/P/8429122028.01.TZZZZZZZ.jpg" alt="Chicago" width="140" height="180">
+            <div class="carousel-caption">
+              <h3 id="titulolibro">Compendio de Arquitectura legal: Derecho profesional y valoraciones inmoviliarias.</h3>
+              <p id="autorlibro">García Erviti, Federico Fernández Pirla, Santiago [prólogo ]  Sainz, Jorge [editor ]</p>
+            </div>   
+          </div></a>
+      <div class="carousel-item" id="item20">
+        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121161"><img src="https://images-na.ssl-images-amazon.com/images/P/8429121102.01.TZZZZZZZ.jpg" alt="Chicago" width="140" height="180">
+            <div class="carousel-caption">
+              <h3 id="titulolibro">Planificación estratégica de ciudades: Nuevos instrumentos y procesos</h3>
+              <p id="autorlibro">Fernández Güell, José Miguel Fariña Tojo, José</p>
+            </div>   
+          </div></a>
+  </div>
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
+
+</body>
+</html>
