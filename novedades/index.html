@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Carrousel de contenido HTML Demo</title>
+<link rel="stylesheet" href="css/font-awesome.min.css">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="css/styles.css">
+<style>
+    .product a {
+        text-decoration: none;
+    }
+</style>
+<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script>
+var current = 0;
+var imagenes = new Array();
+var numImages = 20; 
+var autoplayInterval;
+
+$(document).ready(function() {
+    if (numImages <= 4) {
+        $('.right-arrow').css('display', 'none');
+        $('.left-arrow').css('display', 'none');
+    }
+
+    function moveCarousel() {
+        if (numImages > current + 4) {
+            current = current + 1;
+        } else {
+            current = 0; 
+        }
+        $(".carrusel").animate({"left": -$('#product_'+current).position().left}, 600);
+    }
+
+    function startAutoplay() {
+        autoplayInterval = setInterval(moveCarousel, 6000); 
+    }
+
+    function stopAutoplay() {
+        clearInterval(autoplayInterval);
+    }
+
+    $('.left-arrow').on('click', function() {
+        if (current > 0) {
+            current = current - 1;
+        } else {
+            current = numImages - 4;
+        }
+        
+        $(".carrusel").animate({"left": -$('#product_'+current).position().left}, 300);
+        
+        return false;
+    });
+
+    $('.left-arrow').on('hover', function() {
+        $(this).css('opacity','0.5');
+    }, function() {
+        $(this).css('opacity','1');
+    });
+
+    $('.right-arrow').on('hover', function() {
+        $(this).css('opacity','0.5');
+    }, function() {
+        $(this).css('opacity','1');
+    });
+
+    $('.right-arrow').on('click', function() {
+        moveCarousel();
+        return false;
+    });
+
+    // Inicia el autoplay cuando el cursor se mueve fuera del carrusel
+    $("#carrusel").on('mouseleave', function() {
+        startAutoplay();
+    });
+
+    // Detiene el autoplay cuando el cursor se mueve sobre el carrusel
+    $("#carrusel").on('mouseenter', function() {
+        stopAutoplay();
+    });
+
+    startAutoplay(); // Inicia el autoplay al cargar la página
+});
+</script>
+</head>
+
+<body>
+<div class="cont">
+    <div class="row">
+        <div id="content" class="col-lg-12">
+            <div id="carrusel">
+                <a href="#" class="left-arrow"><img src="images/left-arrow.png" /></a>
+                <a href="#" class="right-arrow"><img src="images/right-arrow.png" /></a>
+                <div class="carrusel">
+                   <div class="product" id="product_0">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=122846">
+                            <img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png"/>
+                            <h5>Mantenimiento y conservación de unidades habitacionales alternativas para una solución financiera Instituto del Fondo Nacional de la Vivienda para los Trabajadores, Asesoría Actuaríal</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_1">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=122847">
+                            <img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png" width="90%" height="50%"/>
+                            <h5>Guía de evolución y origen Infonavit, Subdirección de Administración y Recursos Humanos, Sindicato de Trabajadores del Infonavit</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_2">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121144">
+                            <img src="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-image.pl?thumbnail=1&biblionumber=121144" width="90%" height="50%"/>
+                            <h5>Antecedentes históricos política de desarrollo urbano en Chile editores Pilar Giménez C. y Gonzalo Gazitúa Z.</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_3">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121145">
+                            <img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png"width="90%" height="50%"/>
+                            <h5>Planeación para el desarrollo del territorio perspectiva contemporánea Alberto León Gutiérrez Tamayo, Liliana María Sánchez Mazo</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_4">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121146">
+                            <img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png" width="140" height="100" />
+                            <h5>Estridentópolis urbanización y montaje</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_5">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121147">
+                            <img src="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-image.pl?thumbnail=1&biblionumber=121147" width="140" height="100" />
+                            <h5>Reforma urbana 100 ideas para las ciudades de México</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_6">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121148">
+                            <img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png" width="140" height="100" />
+                            <h5>Concurso No. 15 Re-Habitar el s. XXI La vivienda social desde el paradigma moderno Arquine moderna, Canadevi, Valle de México</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_7">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121149">
+                            <img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png" width="140" height="100" />
+                            <h5>Perímetros del encuentro: Plazas y calles tacotalpeñas Vicente Guzmán Rios</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_8">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121150">
+                            <img src="https://images-na.ssl-images-amazon.com/images/P/9587166051.01.TZZZZZZZ.jpg" width="140" height="100" />
+                            <h5>Mallas urbanas desplazadas Ciudades sostenibles para el siglo XXI Luis Humberto Duque Gómez</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_9">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121150">
+                            <img src="https://images-na.ssl-images-amazon.com/images/P/8496775720.01.TZZZZZZZ.jpg" width="140" height="100" />
+                            <h5>Arquitectura y cultura contemporánea Juan Calatrava y Antonio Gómez-Blanco, editores</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_10">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121152">
+                            <img src="https://images-na.ssl-images-amazon.com/images/P/9707222425.01.TZZZZZZZ.jpg" width="140" height="100" />
+                            <h5>Topografías transnacionales: Hacia un geografía de la vida transnacional</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_11">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121153">
+                            <img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png" width="140" height="100" />
+                            <h5>La plaza mayor, ¿centro de la metrópoli? Etnografía del Zócalo de la Ciudad de México Kathrin Wildner; traducción José Aníbal Campos</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_12">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121153">
+                            <img src="https://images-na.ssl-images-amazon.com/images/P/2067256786.01.TZZZZZZZ.jpg" width="140" height="100" />
+                            <h5>Desarrollo inmobiliario y urbanismo: innovación, sostenibilidad y calidad de vida editores Fernando Páez Mejía y Rodrigo Gómez García</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_13">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121154">
+                            <img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png" width="140" height="100" />
+                            <h5>El espacio metropolitano: Problemas y reflexiones Ana María Fernández</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_14">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121155">
+                            <img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png" width="140" height="100" />
+                            <h5>Lectura urbana de la ciudad de México Adolfo Giles Padilla</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_15">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121156">
+                            <img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png" width="140" height="100" />
+                            <h5>Redes, sistemas y paisajes territorios que habitamos editores Paola Canniccioni, Franco Monti, Florencia Serra</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_16">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121156">
+                            <img src="https://images-na.ssl-images-amazon.com/images/P/9505568646.01.TZZZZZZZ.jpg" width="140" height="100" />
+                            <h5>Ciudades latinoamericanas: un análisis comparativo y transversal</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_17">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121157">
+                            <img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png" width="140" height="100" />
+                            <h5>Aguascalientes, una visión arquitectónica coordinador Eduardo Ocejo Rodríguez</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_18">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121158">
+                            <img src="https://images-na.ssl-images-amazon.com/images/P/9702201695.01.TZZZZZZZ.jpg" width="140" height="100" />
+                            <h5>La ciudad posmoderna y otros ensayos</h5>
+                        </a>
+                    </div>
+
+                    <div class="product" id="product_19">
+                        <a href="https://infonavit.smart-ed.mx/cgi-bin/koha/opac-detail.pl?biblionumber=121159">
+                            <img src="https://bibliotecainfonavit.github.io/imagenes/logoinfonavit.png" width="140" height="100" />
+                            <h5>Economía, espacio y sociedad: ensayos de interpretación histórica Raquel Sosa Elízaga</h5>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-lg-12">
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- Bloque de anuncios adaptable -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-6676636635558550"
+                 data-ad-slot="8523024962"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+    </div>
+        
+</div>
+
+
+</body>
+</html>
