@@ -26,7 +26,6 @@ body {
 .cont{
     display: flex;
     justify-content: center;
-    margin-top: -80px;
 }
 
 #content {
@@ -62,9 +61,9 @@ body {
 
 /* Carrusel */
 #carrusel {
-  width: 660px; /* Ajusta el ancho para mostrar cuatro imágenes (4 x 165px) */
+  width: 700px;
   overflow: hidden;
-  height: 270px;
+  height: 250px;
   position: relative;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -96,11 +95,12 @@ body {
 
 .carrusel>div {
   float: left;
-  height: 270px;
+  height: 250px;
   margin-right: 5px;
   /* Ajusta el ancho de cada producto para mostrar cuatro imágenes */
   width: 160px;
   text-align: center;
+  margin-left: 10px;
 }
 
 .carrusel img {
@@ -111,18 +111,23 @@ body {
   border: #CCCCCC 1px solid;
 }
 h5 {
-    margin-top: 10px;
+
+    margin-top: -125px;
     font-size: 13px;
     color: white;
-    background-color: rgba(128, 128, 128, 0.6);
+    background-color: rgba(128, 128, 128, 0.7);
     height: 142px;
     display: flex;
-    align-items: center;
     justify-content: center;
+    position: relative;
+    padding-top: 5px;
 }
 img{
   margin-top: 10px;
-  width: 90%;
-  height:40%;
+    width: 93%;
+    height: 93%;
 }
+
+
+
 
