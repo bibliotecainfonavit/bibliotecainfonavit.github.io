@@ -129,13 +129,13 @@ h5 {
 .left-arrow {
       position: absolute;
       z-index: 1;
-      top: 125px;
+      top: 140px;
 }
 
  .right-arrow {
     position: absolute;
       z-index: 1;
-      top: 125px;
+      top: 140px;
       margin-left: -10px;
 }
 
