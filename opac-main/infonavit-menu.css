@@ -124,7 +124,7 @@ body {
 }
 
 .nav__container__list--subMenu li a:hover {
-  color: pink;
+  color: pink!important;
 }
 
 /* RESPONSIVE CELULARES */
