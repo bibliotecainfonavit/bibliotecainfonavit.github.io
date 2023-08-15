@@ -28,7 +28,7 @@ body {
 
 .nav a:hover {
   color: pink;
-  border-bottom: 2px solid pink;
+  border-bottom: 2px solid transparent; 
   z-index: 100;
   font-family: Helvetica, serif;
   line-height: 1.5;
