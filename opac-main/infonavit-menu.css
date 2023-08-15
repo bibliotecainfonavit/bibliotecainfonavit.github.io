@@ -1,7 +1,5 @@
 body {
-  margin-right: 0;
-  margin-left: 0;
-  margin-top: 0;
+  margin: 0;
 }
 
 .full-width-span {
@@ -30,7 +28,7 @@ body {
 
 .nav a:hover {
   color: pink;
-  border-botttom: 2px solid pink;
+  border-bottom: 2px solid pink;
   z-index: 100;
   font-family: Helvetica, serif;
   line-height: 1.5;
@@ -108,7 +106,7 @@ body {
   display: none;
   position: absolute;
   background: #1e6372;
-  padding: 0px;
+  padding: 0;
   z-index: 100;
   border-radius: 0 0 5px 5px;
   font-size: 0.85rem;
@@ -263,8 +261,8 @@ body {
     margin-top: 30px;
     margin: 0 auto;
     max-height: 60px;
-    filter: invert(1);
-    margin-top: -308px;
+    /* filter: invert(1); */
+    /* margin-top: -308px; */
   }
 
   .nav__container__logo__mobile {
