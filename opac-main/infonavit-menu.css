@@ -123,6 +123,10 @@ body {
   color: pink;
 }
 
+.nav__container__list--dropDown li a:hover {
+  color: pink;
+}
+
 /* RESPONSIVE CELULARES */
 
 @media screen and (max-width: 725px) {
