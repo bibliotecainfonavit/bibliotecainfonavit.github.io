@@ -131,6 +131,10 @@ body {
   line-height: 1.5!important;
 }
 
+.nav__container__list--subMenuParent:hover > a:contains("Para niñ") {
+      color: pink;
+    }
+
 /* RESPONSIVE CELULARES */
 
 @media screen and (max-width: 725px) {
