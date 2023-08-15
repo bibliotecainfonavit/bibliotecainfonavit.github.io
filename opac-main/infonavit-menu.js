@@ -1,4 +1,4 @@
-    const nav = {};
+  const nav = {};
 
     nav.handleDropDown = () => {
       $('.dropDown').on('click', function (e) {
@@ -32,19 +32,10 @@
       });
     };
 
-    nav.handleHoverColor = () => {
-      $('.nav__container__list--subMenuParent > a:contains("Para niñ")').hover(function() {
-        $(this).css('color', 'pink');
-      }, function() {
-        $(this).css('color', '');
-      });
-    };
-
     nav.init = () => {
       nav.handleClickOffnav();
       nav.handleDropDown();
       nav.handleHamburgerToggle();
-      nav.handleHoverColor();
     };
 
     //document ready
