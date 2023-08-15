@@ -125,6 +125,10 @@ body {
 
 .nav__container__list--subMenu li a:hover {
   color: pink!important;
+  border-bottom: 2px solid transparent!important; 
+  z-index: 100!important;
+  font-family: Helvetica, serif!important;
+  line-height: 1.5!important;
 }
 
 /* RESPONSIVE CELULARES */
