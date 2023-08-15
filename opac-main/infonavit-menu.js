@@ -36,21 +36,20 @@
     nav.handleClickOffnav();
     nav.handleDropDown();
     nav.handleHamburgerToggle();
-    
+
     // Cambiar color de texto para "Para niños y jóvenes"
     $('.nav__container__list--subMenuParent > a:contains("Para niños y jóvenes")').hover(
-      function() {
+      function () {
         $(this).css('color', 'pink');
       },
-      function() {
+      function () {
         $(this).css('color', 'white');
       }
     );
   };
 
   //document ready
-  $(function () {
+  $(document).ready(function () {
     nav.init();
+    $('nav ul').hide();
   });
-
-  $('nav ul').hide();
