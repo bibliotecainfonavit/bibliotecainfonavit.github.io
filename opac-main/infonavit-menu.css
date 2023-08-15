@@ -120,6 +120,7 @@ body {
 .nav__container__list--dropDown li a {
   font-size: 0.85rem;
   cursor: pointer;
+  color: pink;
 }
 
 /* RESPONSIVE CELULARES */
