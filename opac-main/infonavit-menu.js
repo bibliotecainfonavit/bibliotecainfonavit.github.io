@@ -1,4 +1,4 @@
-  const nav = {};
+    const nav = {};
 
     nav.handleDropDown = () => {
       $('.dropDown').on('click', function (e) {
@@ -44,3 +44,4 @@
     });
 
     $('nav ul').hide();
+  </script>
