@@ -22,7 +22,7 @@
         showAutoPlayButton="true"
         showDownloadButton="true"
         showEmailButton="true"
-        emailAddress=""
+        emailAddress="correo@email.com"
         emailSubject=""
         buttonBarIconSize="15"
         captionPosition="BELOW_IMAGE"
