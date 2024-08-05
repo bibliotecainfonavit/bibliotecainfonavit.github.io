@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+        backgroundColor="rgba(255, 255, 255, 1)"
+        useFullscreenExpand="true"
+        enableLooping="true"
+        stagePadding="50"
+        galleryTitlePosition="TOP"
+        galleryTitleHAlign="CENTER"
+        rememberPassword="false"
+        captionBackColor="rgba(204,204,204,0.3)"
+        buttonBarBackColor="rgba(204,204,204,0.5)"
+        imageFrameColor="rgba(255,255,255,1)"
+        thumbDotColor="rgba(255,255,255,0.4)"
+        expandedBackgroundColor="rgba(255, 255, 255, 1)"
+        imagePreloading="NEXT"
+        imageShadowBlur="0"
+        thumbSelectedFrameWidth="8"
+        thumbCornerRadius="5"
+        buttonBarPosition="OVERLAY"
+        showAutoPlayButton="true"
+        showDownloadButton="true"
+        showEmailButton="true"
+        emailAddress=""
+        emailSubject=""
+        buttonBarIconSize="15"
+        captionPosition="BELOW_IMAGE"
+        maxCaptionHeight="40"
+        enableAutoPlay="true"
+        autoPlayOnLoad="true"
+        displayTime="3"
+        goNextOnAutoPlay="true"
+        shareFacebook="false"
+        shareTwitter="false"
+        shareGPlus="false"
+        sharePinterest="false"
+        watermarkHAlign="LEFT"
+        watermarkVAlign="TOP"
+        watermarkPath="/Users/joserodriguez/Documents/Clientes/Infonavit/Galerí?as/Firma inst-Infonavit 2019-Color negro 25%.png"
+        useWatermark="true"
+        backgroundUrl="https://infonavit.janium.net/janium/Imagenes2022/header.jpg"
+        backgroundScale="NONE"
+        buttonBarHAlign="CENTER"
+        addSEOContent="false"
+        showExpandButton="false"
+        showThumbsButton="false"
+        showSmallThumbsButton="true"
+        showSmallPagingText="true"
+        showOpenButton="false"
+>
+  <image imageURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_1.jpeg"
+	thumbURL="thumbs/Mañanera_AMLO_DG_Luisa María Alcalde Luján_1.jpeg"
+	linkURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_1.jpeg"
+	linkTarget="_blank"
+	sourcePath="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_1.jpeg">
+    <title><![CDATA[Luisa María Alcalde Luján_1]]></title>
+    <caption><![CDATA[Luisa María Alcalde Luján_1]]></caption>
+  </image>
+  <image imageURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_2.jpeg"
+	thumbURL="thumbs/Mañanera_AMLO_DG_Luisa María Alcalde Luján_2.jpeg"
+	linkURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_2.jpeg"
+	linkTarget="_blank"
+	sourcePath="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_2.jpeg">
+    <title><![CDATA[Luisa María Alcalde Luján_2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_3.jpeg"
+	thumbURL="thumbs/Mañanera_AMLO_DG_Luisa María Alcalde Luján_3.jpeg"
+	linkURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_3.jpeg"
+	linkTarget="_blank"
+	sourcePath="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_3.jpeg">
+    <title><![CDATA[Luisa María Alcalde Luján_3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_4.jpeg"
+	thumbURL="thumbs/Mañanera_AMLO_DG_Luisa María Alcalde Luján_4.jpeg"
+	linkURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_4.jpeg"
+	linkTarget="_blank"
+	sourcePath="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_4.jpeg">
+    <title><![CDATA[Mañanera_AMLO_DG_Luisa María Alcalde Luján_4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_5.jpeg"
+	thumbURL="thumbs/Mañanera_AMLO_DG_Luisa María Alcalde Luján_5.jpeg"
+	linkURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_5.jpeg"
+	linkTarget="_blank"
+	sourcePath="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_5.jpeg">
+    <title><![CDATA[Luisa María Alcalde Luján_5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_6.jpeg"
+	thumbURL="thumbs/Mañanera_AMLO_DG_Luisa María Alcalde Luján_6.jpeg"
+	linkURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_6.jpeg"
+	linkTarget="_blank"
+	sourcePath="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_6.jpeg">
+    <title><![CDATA[Luisa María Alcalde Luján_6]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+ <image imageURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_7.jpeg"
+	thumbURL="thumbs/Mañanera_AMLO_DG_Luisa María Alcalde Luján_7.jpeg"
+	linkURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_7.jpeg"
+	linkTarget="_blank"
+	sourcePath="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_7.jpeg">
+    <title><![CDATA[Luisa María Alcalde Luján_7]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_8.jpeg"
+	thumbURL="thumbs/Mañanera_AMLO_DG_Luisa María Alcalde Luján_8.jpeg"
+	linkURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_8.jpeg"
+	linkTarget="_blank"
+	sourcePath="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_8.jpeg">
+    <title><![CDATA[Luisa María Alcalde Luján_8]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_9.jpeg"
+	thumbURL="thumbs/Mañanera_AMLO_DG_Luisa María Alcalde Luján_9.jpeg"
+	linkURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_9.jpeg"
+	linkTarget="_blank"
+	sourcePath="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_9.jpeg">
+    <title><![CDATA[Luisa María Alcalde Luján_9]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_10.jpeg"
+	thumbURL="thumbs/Mañanera_AMLO_DG_Luisa María Alcalde Luján_10.jpeg"
+	linkURL="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_10.jpeg"
+	linkTarget="_blank"
+	sourcePath="images/Mañanera_AMLO_DG_Luisa María Alcalde Luján_10.jpeg">
+    <title><![CDATA[Luisa María Alcalde Luján_10]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
