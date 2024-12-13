@@ -222,7 +222,7 @@ font-family:Helvetica,serif;
 .nav__container__list--dropDown {
     background-color:#222;
     box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
-    width: 287px;
+    /*width: 287px;*/
     margin-left: -20px;
     margin-top: 23px;
     border-bottom: 1px solid #c1bebe;
